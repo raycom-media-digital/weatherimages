@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Extended Forecast",
+    "id": "extended-forecast",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "//www.kplctv.com/category/306585/7-day-forecast",
+    "includeAd": true,
+    "ad": {
+      "target": "kplc/web/weather/radar/extended-forecast",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "https://ftpcontent4.worldnow.com/kplc/weather/7_Day_Forecast_full.JPG"
+  },
+  {
+    "title": "SWLA Current Temps",
+    "id": "swla-current-temps",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kplc/web/weather/radar/swla-current-temps",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "https://ftpcontent4.worldnow.com/kplc/weather/Local%20Temps_full.JPG"
+  },
+  {
+    "title": "Calcasieu Radar",
+    "id": "calcasieu-radar",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "//www.kplctv.com/category/135448/your-parish-radar",
+    "includeAd": true,
+    "ad": {
+      "target": "kplc/web/weather/radar/calcasieu-radar",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "https://ftpcontent4.worldnow.com/kplc/weather/Calcasieu%20Parish%20Radar_full.JPG"
+  },
+  {
+    "title": "Severe Warnings",
+    "id": "severe-warnings",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "//www.kplctv.com/link/315205/interactive-imap-radar",
+    "includeAd": true,
+    "ad": {
+      "target": "kplc/web/weather/radar/severe-warnings",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "https://ftpcontent4.worldnow.com/kplc/weather/Local%20Warnings_full.JPG"
+  },
+  {
+    "title": "Wind Speeds",
+    "id": "wind-speeds",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "//www.kplctv.com/link/315205/interactive-imap-radar",
+    "includeAd": true,
+    "ad": {
+      "target": "kplc/web/weather/radar/wind-speeds",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "https://ftpcontent4.worldnow.com/kplc/weather/Local%20Winds_full.JPG"
+  },
+  {
+    "title": "Tide And Marine",
+    "id": "tide-and-marine",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "//www.kplctv.com/category/310496/marine-forecast-and-tide-times",
+    "includeAd": true,
+    "ad": {
+      "target": "kplc/web/weather/radar/tide-and-marine",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "https://ftpcontent4.worldnow.com/kplc/weather/Marine.jpg"
+  }
+]

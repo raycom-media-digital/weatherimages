@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Doppler Radar",
+    "id": "doppler-radar",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "waff/web/weather/radar/doppler-radar",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/waff/weather/radar/doppler.jpg"
+  },
+  {
+    "title": "TN Valley Temps",
+    "id": "tn-valley-temps",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "waff/web/weather/radar/tn-valley-temps",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/waff/weather/HD_CLOSE_TEMPS.jpg"
+  },
+  {
+    "title": "State Temps",
+    "id": "state-temps",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "waff/web/weather/radar/state-temps",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/waff/weather/HD_AL_TEMPS.jpg"
+  },
+  {
+    "title": "10 Day Forecast",
+    "id": "10-day-forecast",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "waff/web/weather/radar/10-day-forecast",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/waff/weather/7day.jpg"
+  },
+  {
+    "title": "SE Radar Network",
+    "id": "se-radar-network",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "waff/web/weather/radar/se-radar-network",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/waff/weather/RADAR_SE.jpg"
+  },
+  {
+    "title": "Regional Satellite",
+    "id": "regional-satellite",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "waff/web/weather/radar/regional-satellite",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/waff/weather/SATELLITE_SE.jpg"
+  }
+]
