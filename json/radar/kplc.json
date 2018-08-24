@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Acadia",
+    "id": "acadia",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": null,
+    "includeAd": true,
+    "ad": {
+      "target": "kplc/web/weather/radar/7-day-forecast",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://ftpcontent4.worldnow.com/kplc/weather/Acadia%20Parish%20Radar_640.gif"
+  },
+  {
+    "title": "Allen",
+    "id": "allen",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": null,
+    "includeAd": true,
+    "ad": {
+      "target": "kplc/web/weather/radar",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://ftpcontent4.worldnow.com/kplc/weather/Allen%20Parish%20Radar_640.gif"
+  },
+  {
+    "title": "Beauregard",
+    "id": "beauregard",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": null,
+    "includeAd": true,
+    "ad": {
+      "target": "kplc/web/weather/radar/north-doppler",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://ftpcontent4.worldnow.com/kfvs12/weather/images/Diggital_Doppler_North_Wide.jpg"
+  },
+  {
+    "title": "South Doppler",
+    "id": "south-doppler",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": null,
+    "includeAd": true,
+    "ad": {
+      "target": "kplc/web/weather/radar/south-doppler",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://ftpcontent4.worldnow.com/kfvs12/weather/images/Diggital_Doppler_South_Wide.jpg"
+  },
+  {
+    "title": "Current Temps",
+    "id": "current-temps",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": null,
+    "includeAd": true,
+    "ad": {
+      "target": "kplc/web/weather/radar/current-temps",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://ftpcontent4.worldnow.com/kfvs12/weather/images/current_temps_wide.jpg"
+  },
+  {
+    "title": "Feels Like",
+    "id": "feels-like",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": null,
+    "includeAd": true,
+    "ad": {
+      "target": "kplc/web/weather/radar/feels-like",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://ftpcontent4.worldnow.com/kfvs12/weather/images/Current_Feels_Wide.jpg"
+  }
+]
