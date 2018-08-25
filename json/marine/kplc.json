@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Marine Forecast",
+    "id": "marine-forecast",
+    "sponsor": "Port of Lake Charles",
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": null,
+    "includeAd": true,
+    "ad": {
+      "target": "kplc/web/weather/marine-forecast",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://ftpcontent4.worldnow.com/kplc/weather/Marine.jpg"
+  },  
+  {
+    "title": "Tides Forecast",
+    "id": "tides-forecast",
+    "sponsor": "Port of Lake Charles",
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": null,
+    "includeAd": true,
+    "ad": {
+      "target": "kplc/web/weather/marine-forecast",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://ftpcontent4.worldnow.com/kplc/weather/Marine_full.JPG"
+  },  
+  {
+    "title": "River Stages",
+    "id": "river-stages",
+    "sponsor": "Port of Lake Charles",
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": null,
+    "includeAd": true,
+    "ad": {
+      "target": "kplc/web/weather/marine-forecast",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://ftpcontent4.worldnow.com/kplc/weather/River_Stages.JPG"
+  }
+]
