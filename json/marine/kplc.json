@@ -8,7 +8,7 @@
     "destinationUri": null,
     "includeAd": true,
     "ad": {
-      "target": "kplc/web/weather/marine-forecast",
+      "target": "kplc/web/station1",
       "sizes": [
         [
           728,
@@ -31,7 +31,7 @@
     "destinationUri": null,
     "includeAd": true,
     "ad": {
-      "target": "kplc/web/weather/marine-forecast",
+      "target": "kplc/web/station1",
       "sizes": [
         [
           728,
@@ -54,7 +54,7 @@
     "destinationUri": null,
     "includeAd": true,
     "ad": {
-      "target": "kplc/web/weather/marine-forecast",
+      "target": "kplc/web/station1",
       "sizes": [
         [
           728,
