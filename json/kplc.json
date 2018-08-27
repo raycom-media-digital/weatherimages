@@ -5,7 +5,7 @@
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
-    "destinationUri": "//www.kplctv.com/category/306585/7-day-forecast",
+    "destinationUri": null,
     "includeAd": true,
     "ad": {
       "target": "kplc/web/weather/radar/extended-forecast",
@@ -28,7 +28,7 @@
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
-    "destinationUri": "",
+    "destinationUri": null,
     "includeAd": true,
     "ad": {
       "target": "kplc/web/weather/radar/swla-current-temps",
@@ -51,7 +51,7 @@
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
-    "destinationUri": "//www.kplctv.com/category/135448/your-parish-radar",
+    "destinationUri": null,
     "includeAd": true,
     "ad": {
       "target": "kplc/web/weather/radar/calcasieu-radar",
@@ -74,7 +74,7 @@
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
-    "destinationUri": "//www.kplctv.com/link/315205/interactive-imap-radar",
+    "destinationUri": null,
     "includeAd": true,
     "ad": {
       "target": "kplc/web/weather/radar/severe-warnings",
@@ -97,7 +97,7 @@
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
-    "destinationUri": "//www.kplctv.com/link/315205/interactive-imap-radar",
+    "destinationUri": null,
     "includeAd": true,
     "ad": {
       "target": "kplc/web/weather/radar/wind-speeds",
@@ -120,7 +120,7 @@
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
-    "destinationUri": "//www.kplctv.com/category/310496/marine-forecast-and-tide-times",
+    "destinationUri": null,
     "includeAd": true,
     "ad": {
       "target": "kplc/web/weather/radar/tide-and-marine",
