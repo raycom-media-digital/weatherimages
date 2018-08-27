@@ -20,7 +20,7 @@
         ]
       ]
     },
-    "image": "https://ftpcontent4.worldnow.com/kplc/weather/7_Day_Forecast_full.JPG"
+    "image": "http://webpubcontent.raycommedia.com/kplc/weather/7_Day_Forecast_full.JPG"
   },
   {
     "title": "SWLA Current Temps",
@@ -43,7 +43,7 @@
         ]
       ]
     },
-    "image": "https://ftpcontent4.worldnow.com/kplc/weather/Local%20Temps_full.JPG"
+    "image": "http://webpubcontent.raycommedia.com/kplc/weather/Local%20Temps_full.JPG"
   },
   {
     "title": "Calcasieu Radar",
@@ -66,7 +66,7 @@
         ]
       ]
     },
-    "image": "https://ftpcontent4.worldnow.com/kplc/weather/Calcasieu%20Parish%20Radar_full.JPG"
+    "image": "http://webpubcontent.raycommedia.com/kplc/weather/Calcasieu%20Parish%20Radar_full.JPG"
   },
   {
     "title": "Severe Warnings",
@@ -89,7 +89,7 @@
         ]
       ]
     },
-    "image": "https://ftpcontent4.worldnow.com/kplc/weather/Local%20Warnings_full.JPG"
+    "image": "http://webpubcontent.raycommedia.com/kplc/weather/Local%20Warnings_full.JPG"
   },
   {
     "title": "Wind Speeds",
@@ -112,7 +112,7 @@
         ]
       ]
     },
-    "image": "https://ftpcontent4.worldnow.com/kplc/weather/Local%20Winds_full.JPG"
+    "image": "http://webpubcontent.raycommedia.com/kplc/weather/Local%20Winds_full.JPG"
   },
   {
     "title": "Tide And Marine",
@@ -135,6 +135,6 @@
         ]
       ]
     },
-    "image": "https://ftpcontent4.worldnow.com/kplc/weather/Marine.jpg"
+    "image": "http://webpubcontent.raycommedia.com/kplc/weather/Marine.jpg"
   }
 ]
