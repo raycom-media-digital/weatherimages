@@ -5,7 +5,7 @@
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
-    "destinationUri": "//www.kfvs12.com/story/1227477/stormteam-graphics-7-day-outlook",
+    "destinationUri": "",
     "includeAd": true,
     "ad": {
       "target": "kfvs/web/weather/radar/7-day-forecast",
@@ -20,7 +20,7 @@
         ]
       ]
     },
-    "image": "http://ftpcontent4.worldnow.com/kfvs12/weather/images/7_Day_Wide.jpg"
+    "image": "http://webpubcontent.raycommedia.com/kfvs12/weather/images/7_Day_Wide.jpg"
   },
   {
     "title": "Interactive Radar",
@@ -28,7 +28,7 @@
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
-    "destinationUri": "//www.kfvs12.com/weather",
+    "destinationUri": "",
     "includeAd": true,
     "ad": {
       "target": "kfvs/web/weather/radar/interactive-radar",
@@ -43,7 +43,7 @@
         ]
       ]
     },
-    "image": "http://ftpcontent4.worldnow.com/kfvs12/weather/images/Digital_Doppler.jpg"
+    "image": "http://webpubcontent.raycommedia.com/kfvs12/weather/images/Digital_Doppler.jpg"
   },
   {
     "title": "North Doppler",
@@ -51,7 +51,7 @@
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
-    "destinationUri": "//www.kfvs12.com/story/24685602/stormteam-graphics-digital-doppler-north",
+    "destinationUri": "",
     "includeAd": true,
     "ad": {
       "target": "kfvs/web/weather/radar/north-doppler",
@@ -66,7 +66,7 @@
         ]
       ]
     },
-    "image": "http://ftpcontent4.worldnow.com/kfvs12/weather/images/Diggital_Doppler_North_Wide.jpg"
+    "image": "http://webpubcontent.raycommedia.com/kfvs12/weather/images/Diggital_Doppler_North_Wide.jpg"
   },
   {
     "title": "South Doppler",
@@ -74,7 +74,7 @@
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
-    "destinationUri": "//www.kfvs12.com/story/24685542/stormteam-graphics-digital-doppler-south",
+    "destinationUri": "",
     "includeAd": true,
     "ad": {
       "target": "kfvs/web/weather/radar/south-doppler",
@@ -89,7 +89,7 @@
         ]
       ]
     },
-    "image": "http://ftpcontent4.worldnow.com/kfvs12/weather/images/Diggital_Doppler_South_Wide.jpg"
+    "image": "http://webpubcontent.raycommedia.com/kfvs12/weather/images/Diggital_Doppler_South_Wide.jpg"
   },
   {
     "title": "Current Temps",
@@ -97,7 +97,7 @@
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
-    "destinationUri": "//www.kfvs12.com/story/1226376/stormteam-graphics-heartland-current-temperatures",
+    "destinationUri": "",
     "includeAd": true,
     "ad": {
       "target": "kfvs/web/weather/radar/current-temps",
@@ -112,7 +112,7 @@
         ]
       ]
     },
-    "image": "http://ftpcontent4.worldnow.com/kfvs12/weather/images/current_temps_wide.jpg"
+    "image": "http://webpubcontent.raycommedia.com/kfvs12/weather/images/current_temps_wide.jpg"
   },
   {
     "title": "Feels Like",
@@ -120,7 +120,7 @@
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
-    "destinationUri": "//www.kfvs12.com/story/1226410/stormteam-graphics-heartland-heat-index",
+    "destinationUri": "",
     "includeAd": true,
     "ad": {
       "target": "kfvs/web/weather/radar/feels-like",
@@ -135,6 +135,6 @@
         ]
       ]
     },
-    "image": "http://ftpcontent4.worldnow.com/kfvs12/weather/images/Current_Feels_Wide.jpg"
+    "image": "http://webpubcontent.raycommedia.com/kfvs12/weather/images/Current_Feels_Wide.jpg"
   }
 ]
