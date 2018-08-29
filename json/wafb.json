@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/wafb/Radar_Web.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wafb/Radar_Web.jpg"
 	},
 	{
 		"title": "Current Temps",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/wafb/So_LA_Temps_Web.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wafb/So_LA_Temps_Web.jpg"
 	},
 	{
 		"title": "Advisories",
@@ -66,6 +66,6 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/wafb/Advisories_Web.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wafb/Advisories_Web.jpg"
 	}
 ]
