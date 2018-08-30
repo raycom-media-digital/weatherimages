@@ -20,7 +20,7 @@
         ]
       ]
     },
-    "image": "http://ftpcontent4.worldnow.com/wdam/weather/ONLINE_PB_RADAR.jpg"
+    "image": "http://webpubcontent.com/wdam/weather/ONLINE_PB_RADAR.jpg"
   },
   {
     "title": "Tri-State Temps",
@@ -43,7 +43,7 @@
         ]
       ]
     },
-    "image": "http://ftpcontent4.worldnow.com/wdam/weather/08_ONLINE_CURRENT_TEMPS_TRI.jpg"
+    "image": "http://webpubcontent.com/wdam/weather/08_ONLINE_CURRENT_TEMPS_TRI.jpg"
   },
   {
     "title": "Local Temps",
@@ -66,7 +66,7 @@
         ]
       ]
     },
-    "image": "http://ftpcontent4.worldnow.com/wdam/weather/PBTemps.jpg"
+    "image": "http://webpubcontent.com/wdam/weather/PBTemps.jpg"
   },
   {
     "title": "Daypart",
@@ -89,7 +89,7 @@
         ]
       ]
     },
-    "image": "http://ftpcontent4.worldnow.com/wdam/weather/ONLINE_DAYPART.jpg"
+    "image": "http://webpubcontent.com/wdam/weather/ONLINE_DAYPART.jpg"
   },
   {
     "title": "7-Day Forecast",
@@ -112,7 +112,7 @@
         ]
       ]
     },
-    "image": "http://ftpcontent4.worldnow.com/wdam/weather/ONLINE_7DAY.jpg"
+    "image": "http://webpubcontent.com/wdam/weather/ONLINE_7DAY.jpg"
   },
   {
     "title": "Coastal Forecast",
@@ -135,7 +135,7 @@
         ]
       ]
     },
-    "image": "http://ftpcontent4.worldnow.com/wdam/weather/AirWindWave.jpg"
+    "image": "http://webpubcontent.com/wdam/weather/AirWindWave.jpg"
   },
   {
     "title": "Forrest General",
@@ -143,7 +143,7 @@
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
-    "destinationUri": "http://wdam.images.worldnow.com/images/12122519_G.jpg?auto=webp&disable=upscale&width=650",
+    "destinationUri": "https://www.weatherbug.com/weather-camera/?cam=HTTSB",
     "includeAd": true,
     "ad": {
       "target": "wdam/web/weather/radar/forrest-general",
@@ -212,7 +212,7 @@
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
-    "destinationUri": "http://wdam.images.worldnow.com/images/12122506_G.jpg?auto=webp&disable=upscale&width=650",
+    "destinationUri": "https://weather.weatherbug.com/weather-camera/?cam=PTRON",
     "includeAd": true,
     "ad": {
       "target": "wdam/web/weather/radar/petro-nissan",
