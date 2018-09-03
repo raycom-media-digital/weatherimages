@@ -1,0 +1,117 @@
+[
+	{
+		"title": "Doppler Radar",
+		"id": "doppler-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wfie/web/weather/radar/doppler-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wfie/weather/doppler.jpg"
+	},
+	{
+		"title": "Regional Temps",
+		"id": "regional-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wfie/web/weather/radar/regional-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wfie/weather/web%20REGIONAL%20TEMPS.jpg"
+	},
+	{
+		"title": "Regional Satellite",
+		"id": "regional-satellite",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wfie/web/weather/radar/regional-satellite",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wfie/weather/REGIONAL%20SATRAD.jpg"
+	},
+	{
+		"title": "National Satellite",
+		"id": "national-satellite",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wfie/web/weather/radar/national-satellite",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wfie/weather/NATIONAL%20SATRAD.jpg"
+	},
+	{
+		"title": "7-Day Forecast",
+		"id": "7-day-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wfie/web/weather/radar/7-day-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wfie/weather/7DAY_full.jpg"
+	}
+]

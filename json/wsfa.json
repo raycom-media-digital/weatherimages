@@ -1,0 +1,140 @@
+[
+	{
+		"title": "National Radar/Sat",
+		"id": "national-radar/sat",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wsfa/web/weather/radar/national-radar/sat",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wsfa/Weather/satrad_national_full.jpg"
+	},
+	{
+		"title": "Regional Radar/Sat",
+		"id": "regional-radar/sat",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wsfa/web/weather/radar/regional-radar/sat",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wsfa/Weather/satrad_3state_thumb.jpg"
+	},
+	{
+		"title": "National Temps",
+		"id": "national-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wsfa/web/weather/radar/national-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wsfa/Weather/temps_national_full.jpg"
+	},
+	{
+		"title": "Regional Temps",
+		"id": "regional-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wsfa/web/weather/radar/regional-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wsfa/Weather/temps_3state_full.jpg"
+	},
+	{
+		"title": "Winds",
+		"id": "winds",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wsfa/web/weather/radar/winds",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wsfa/Weather/winds_3state_full.jpg"
+	},
+	{
+		"title": "Airport Delays",
+		"id": "airport-delays",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wsfa/web/weather/radar/airport-delays",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wsfa/Weather/airports_regional_full.jpg"
+	}
+]

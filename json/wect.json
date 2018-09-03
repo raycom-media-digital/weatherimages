@@ -1,0 +1,140 @@
+[
+	{
+		"title": "Extended Forecast",
+		"id": "extended-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wect/web/weather/radar/extended-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wect/MAXSevenday.jpg"
+	},
+	{
+		"title": "A Look Ahead",
+		"id": "a-look-ahead",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wect/web/weather/radar/a-look-ahead",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wect/MAXTomorrow.jpg"
+	},
+	{
+		"title": "Regional SAT/Radar",
+		"id": "regional-sat/radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wect/web/weather/radar/regional-sat/radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wect/MAXSatRad_Caro.jpg"
+	},
+	{
+		"title": "Temperatures",
+		"id": "temperatures",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wect/web/weather/radar/temperatures",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wect/MAXTemperature_ADI.jpg"
+	},
+	{
+		"title": "Watches / Warnings",
+		"id": "watches-/-warnings",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wect/web/weather/radar/watches-/-warnings",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wect/MAXWarning.jpg"
+	},
+	{
+		"title": "Pollen Forecast",
+		"id": "pollen-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wect/web/weather/radar/pollen-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wect/MAXWarning.jpg"
+	}
+]
