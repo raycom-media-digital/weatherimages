@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/wlbt/SatRad_Temps.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wlbt/SatRad_Temps.jpg"
 	},
 	{
 		"title": "12-Hour Forecast",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/wlbt/12_Hour_Forecast.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wlbt/12_Hour_Forecast.jpg"
 	},
 	{
 		"title": "7-Day Forecast",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/wlbt/7_Day_Forecast.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wlbt/7_Day_Forecast.jpg"
 	},
 	{
 		"title": "Current Radar",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/wlbt/radar.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wlbt/radar.jpg"
 	},
 	{
 		"title": "Weather Alerts",
@@ -120,7 +120,7 @@
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
-		"destinationUri": "",
+		"destinationUri": "http://www.wlbt.com/apps/",
 		"includeAd": true,
 		"ad": {
 			"target": "wlbt/web/weather/radar/app-download",
@@ -135,6 +135,6 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/wlbt/weather_web.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wlbt/weather_web.jpg"
 	}
 ]
