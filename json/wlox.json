@@ -92,15 +92,15 @@
 		"image": "http://ftpcontent4.worldnow.com/wlox/weather/MARINES.jpeg"
 	},
 	{
-		"title": "Sattellite/Radar",
-		"id": "sattellite/radar",
+		"title": "Satellite/Radar",
+		"id": "satellite/radar",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wlox/web/weather/radar/sattellite/radar",
+			"target": "wlox/web/weather/radar/satellite/radar",
 			"sizes": [
 				[
 					728,
