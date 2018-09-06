@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/walb/weather/web/7_day_forecast.jpg"
+		"image": "http://webpubcontent.raycommedia.com/walb/weather/web/7_day_forecast.jpg"
 	},
 	{
 		"title": "Current Temps",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/walb/weather/web/current_temperatures.jpg"
+		"image": "http://webpubcontent.raycommedia.com/walb/weather/web/current_temperatures.jpg"
 	},
 	{
 		"title": "Southeast Temps",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/walb/weather/web/southeast_temperatures.jpg"
+		"image": "http://webpubcontent.raycommedia.com/walb/weather/web/southeast_temperatures.jpg"
 	},
 	{
 		"title": "Sattellite/Radar",
@@ -89,6 +89,6 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/walb/weather/web/OTT_Satelite.png"
+		"image": "http://webpubcontent.raycommedia.com/walb/weather/web/OTT_Satelite.png"
 	}
 ]
