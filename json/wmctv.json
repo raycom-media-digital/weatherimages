@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/wmctv/Current_Mid_South_Temps.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wmctv/Current_Mid_South_Temps.jpg"
 	},
 	{
 		"title": "Regional Temps",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/wmctv/Regional_Temperatures.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wmctv/Regional_Temperatures.jpg"
 	},
 	{
 		"title": "Regional Satellite",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/wmctv/Regional_Satellite_Radar.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wmctv/Regional_Satellite_Radar.jpg"
 	},
 	{
 		"title": "Regional Futurecast",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/wmctv/Regional_Futurecast.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wmctv/Regional_Futurecast.jpg"
 	},
 	{
 		"title": "7-Day Forecast",
@@ -112,7 +112,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/wmctv/7_Day_Still_large.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wmctv/7_Day_Still_large.jpg"
 	},
 	{
 		"title": "Doppler 5 Radar",
@@ -135,6 +135,6 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/wmctv/frame1.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wmctv/frame1.jpg"
 	}
 ]
