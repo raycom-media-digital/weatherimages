@@ -1,0 +1,117 @@
+[
+	{
+		"title": "Doppler Radar",
+		"id": "doppler-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kcbd/web/weather/radar/doppler-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/kcbd/weather-block/KCBD_Doppler_645x484.jpg"
+	},
+	{
+		"title": "Satellite/Radar",
+		"id": "satellite/radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kcbd/web/weather/radar/satellite/radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/kcbd/weather-block/KCBD_SatRad_645x484.jpg"
+	},
+	{
+		"title": "Current Temps",
+		"id": "current-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kcbd/web/weather/radar/current-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/kcbd/weather-block/KCBD_Temps_645x484.jpg"
+	},
+	{
+		"title": "Current Winds",
+		"id": "current-winds",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kcbd/web/weather/radar/current-winds",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/kcbd/weather-block/KCBD_Winds_645x484.jpg"
+	},
+	{
+		"title": "7-Day Forecast",
+		"id": "7-day-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kcbd/web/weather/radar/7-day-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/kcbd/weather-block/KCBD_7D_645x484.jpg"
+	}
+]

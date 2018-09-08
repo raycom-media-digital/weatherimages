@@ -1,0 +1,140 @@
+[
+	{
+		"title": "Daily Planner",
+		"id": "daily-planner",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wtvm/web/weather/radar/daily-planner",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wtvm/weather/Daily%20Planner.jpg"
+	},
+	{
+		"title": "9-Day Forecast",
+		"id": "9-day-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wtvm/web/weather/radar/9-day-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wtvm/weather/7-day.jpg"
+	},
+	{
+		"title": "Alert Center Radar",
+		"id": "alert-center-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wtvm/web/weather/radar/alert-center-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wtvm/weather/Local%20Radar%20for%20Web.jpg"
+	},
+	{
+		"title": "Local Temps",
+		"id": "local-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wtvm/web/weather/radar/local-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wtvm/weather/Local%20Current%20Temps.jpg"
+	},
+	{
+		"title": "Regional Sat/Radar",
+		"id": "regional-sat/radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wtvm/web/weather/radar/regional-sat/radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wtvm/weather/State%20Radar%20for%20Web.jpg"
+	},
+	{
+		"title": "National Sat/Radar",
+		"id": "national-sat/radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wtvm/web/weather/radar/national-sat/radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/wtvm/weather/USA%20Radar%20for%20Web.jpg"
+	}
+]

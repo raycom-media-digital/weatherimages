@@ -1,0 +1,140 @@
+[
+	{
+		"title": "7-Day Forecast",
+		"id": "7-day-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kltv/web/weather/radar/7-day-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/kltv/wxc/7dayforecast.jpg"
+	},
+	{
+		"title": "Satellite Radar",
+		"id": "satellite-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kltv/web/weather/radar/satellite-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/kltv/wxc/Sat_Rad_Big.jpeg"
+	},
+	{
+		"title": "East Texas Temps",
+		"id": "east-texas-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kltv/web/weather/radar/east-texas-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/kltv/wxc/ETX_Temps_Big.jpeg"
+	},
+	{
+		"title": "State Temps",
+		"id": "state-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kltv/web/weather/radar/state-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent4.worldnow.com/kltv/wxc/Regional_Temps_Big.jpeg"
+	},
+	{
+		"title": "Regional Radar",
+		"id": "regional-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kltv/web/weather/radar/regional-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://weatherimagery.raycommedia.com/feeds/raycom/image/us-southcentral_radar_d505x380_still.jpg"
+	},
+	{
+		"title": "Regional Satellite",
+		"id": "regional-satellite",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kltv/web/weather/radar/regional-satellite",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://weatherimagery.raycommedia.com/feeds/raycom/image/us-southcentral_infrared_d505x380_still.jpg"
+	}
+]
