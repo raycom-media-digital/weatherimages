@@ -1,0 +1,209 @@
+[
+   {
+      "title": "First Alert Doppler Radar",
+      "id": "first-alert-doppler-radar",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "wtol/web/weather/radar/first-alert-doppler-radar",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://ftpcontent4.worldnow.com/wtol/WeatherDCE/StormTrackDoppler.jpg"
+   },
+   {
+      "title": "Plan Ahead",
+      "id": "plan-ahead",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "wtol/web/weather/radar/plan-ahead",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://ftpcontent4.worldnow.com/wtol/WeatherDCE/PlanAhead.jpg"
+   },
+   {
+      "title": "Daily Almanac",
+      "id": "daily-almanac",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "wtol/web/weather/radar/daily-almanac",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://ftpcontent4.worldnow.com/wtol/WeatherDCE/DailyAlmanac.jpg"
+   },
+   {
+      "title": "Current Temperature",
+      "id": "current-temperature",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "wtol/web/weather/radar/current-temperature",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://ftpcontent4.worldnow.com/wtol/WeatherDCE/ADICurrentTemperature.jpg"
+   },
+   {
+      "title": "Current Winds",
+      "id": "current-winds",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "wtol/web/weather/radar/current-winds",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://ftpcontent4.worldnow.com/wtol/WeatherDCE/ADICurrentWind.jpg"
+   },
+   {
+      "title": "Current Visibility",
+      "id": "current-visibility",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "wtol/web/weather/radar/current-visibility",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://ftpcontent4.worldnow.com/wtol/WeatherDCE/ADIVisibilityCurrents.jpg"
+   },
+   {
+      "title": "10-Day Forecast",
+      "id": "10-day-forecast",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "wtol/web/weather/radar/10-day-forecast",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://ftpcontent4.worldnow.com/wtol/WeatherDCE/ExtendedForecast.jpg"
+   },
+   {
+      "title": "Regional Temperature",
+      "id": "regional-temperature",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "wtol/web/weather/radar/regional-temperature",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://ftpcontent4.worldnow.com/wtol/WeatherDCE/TriStateCurrentTemps.jpg"
+   },
+   {
+      "title": "National Temperature",
+      "id": "national-temperature",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "wtol/web/weather/radar/national-temperature",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://ftpcontent4.worldnow.com/wtol/WeatherDCE/CurrentNationalTemps.jpg"
+   }
+]

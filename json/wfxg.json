@@ -1,0 +1,140 @@
+[
+	{
+		"title": "Local Radar",
+		"id": "local-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wfxg/web/weather/radar/local-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://weatherimagery.raycommedia.com/feeds/raycom/image/wfxg_radar_d505x380_still.jpg?1424060022857"
+	},
+	{
+		"title": "Satellite",
+		"id": "satellite",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wfxg/web/weather/radar/satellite",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://weatherimagery.raycommedia.com/feeds/raycom/image/us-southeast_infrared_d505x380_still.jpg"
+	},
+	{
+		"title": "State Radar",
+		"id": "state-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wfxg/web/weather/radar/state-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://weatherimagery.raycommedia.com/feeds/raycom/image/us-ga_radar_d505x380_still.jpg?1424060130850"
+	},
+	{
+		"title": "Regional Radar",
+		"id": "regional-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wfxg/web/weather/radar/regional-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://weatherimagery.raycommedia.com/feeds/raycom/image/us-southeast_radar_d505x380_still.jpg?1424060102488"
+	},
+	{
+		"title": "Watches/Warnings",
+		"id": "watches/warnings",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wfxg/web/weather/radar/watches/warnings",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://weatherimagery.raycommedia.com/feeds/raycom/image/us-national_wwa_d505x380_still.jpg?1424060353212"
+	},
+	{
+		"title": "National Radar",
+		"id": "national-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wfxg/web/weather/radar/national-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://weatherimagery.raycommedia.com/feeds/raycom/image/us-national_radar_d505x380_still.jpg?1424060269037"
+	}
+]
