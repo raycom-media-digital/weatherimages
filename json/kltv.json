@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/kltv/wxc/7dayforecast.jpg"
+		"image": "http://webpubcontent.raycommedia.com/kltv/wxc/7dayforecast.jpg"
 	},
 	{
 		"title": "Satellite Radar",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/kltv/wxc/Sat_Rad_Big.jpeg"
+		"image": "http://webpubcontent.raycommedia.com/kltv/wxc/Sat_Rad_Big.jpeg"
 	},
 	{
 		"title": "East Texas Temps",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/kltv/wxc/ETX_Temps_Big.jpeg"
+		"image": "http://webpubcontent.raycommedia.com/kltv/wxc/ETX_Temps_Big.jpeg"
 	},
 	{
 		"title": "State Temps",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/kltv/wxc/Regional_Temps_Big.jpeg"
+		"image": "http://webpubcontent.raycommedia.com/kltv/wxc/Regional_Temps_Big.jpeg"
 	},
 	{
 		"title": "Regional Radar",

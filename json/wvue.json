@@ -20,7 +20,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wvue/weather_images/Temperatures_Regional.jpg"
+    "image": "https://ftpcontent.worldnow.com/wvue/weather_images/Temperatures_Regional.jpg"
   },
   {
     "title": "Current Winds",
@@ -43,7 +43,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wvue/weather_images/Winds_Local.jpg"
+    "image": "https://ftpcontent.worldnow.com/wvue/weather_images/Winds_Local.jpg"
   },
   {
     "title": "Wave Heights",
@@ -66,7 +66,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wvue/weather_images/Buoys_Wave_Heights.jpg"
+    "image": "https://ftpcontent.worldnow.com/wvue/weather_images/Buoys_Wave_Heights.jpg"
   },
   {
     "title": "Marine Forecast",
@@ -89,7 +89,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wvue/weather_images/Marine_Forecast.jpg"
+    "image": "https://ftpcontent.worldnow.com/wvue/weather_images/Marine_Forecast.jpg"
   },
   {
     "title": "Satellite/Radar",
@@ -112,7 +112,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wvue/weather_images/local_radar_img.jpg"
+    "image": "https://ftpcontent.worldnow.com/wvue/weather_images/local_radar_img.jpg"
   },
   {
     "title": "7-Day Forecast",
@@ -135,6 +135,6 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wvue/weather_images/Extended_Forecast.jpg"
+    "image": "https://ftpcontent.worldnow.com/wvue/weather_images/Extended_Forecast.jpg"
   }
 ]

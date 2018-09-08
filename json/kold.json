@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/kold/Intellicast/7Day.jpg"
+		"image": "http://webpubcontent.raycommedia.com/kold/Intellicast/7Day.jpg"
 	},
 	{
 		"title": "Mt. Lemmon Forecast",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/kold/Intellicast/mtlemmon.jpg"
+		"image": "http://webpubcontent.raycommedia.com/kold/Intellicast/mtlemmon.jpg"
 	},
 	{
 		"title": "Pollen Levels",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/kold/Intellicast/Pollen.jpg"
+		"image": "http://webpubcontent.raycommedia.com/kold/Intellicast/Pollen.jpg"
 	},
 	{
 		"title": "Arizona Temps",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/kold/Intellicast/Currents_AZ.jpg"
+		"image": "http://webpubcontent.raycommedia.com/kold/Intellicast/Currents_AZ.jpg"
 	},
 	{
 		"title": "First Alert Doppler",
@@ -112,7 +112,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/kold/Intellicast/Radar_AZ.jpg"
+		"image": "http://webpubcontent.raycommedia.com/kold/Intellicast/Radar_AZ.jpg"
 	},
 	{
 		"title": "Regional Satellite",
@@ -135,7 +135,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/kold/Intellicast/Sat_West.jpg"
+		"image": "http://webpubcontent.raycommedia.com/kold/Intellicast/Sat_West.jpg"
 	},
 	{
 		"title": "National Satellite",
@@ -158,6 +158,6 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent4.worldnow.com/kold/Intellicast/Radar_USA.jpg"
+		"image": "http://webpubcontent.raycommedia.com/kold/Intellicast/Radar_USA.jpg"
 	}
 ]

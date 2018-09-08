@@ -69,15 +69,15 @@
 		"image": "http://webpubcontent.raycommedia.com/walb/weather/web/southeast_temperatures.jpg"
 	},
 	{
-		"title": "Sattellite/Radar",
-		"id": "sattellite/radar",
+		"title": "Satellite/Radar",
+		"id": "satellite/radar",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "walb/web/weather/radar/sattellite/radar",
+			"target": "walb/web/weather/radar/satellite/radar",
 			"sizes": [
 				[
 					728,
