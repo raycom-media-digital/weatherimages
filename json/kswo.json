@@ -1,0 +1,140 @@
+[
+	{
+		"title": "7 Day Forecast",
+		"id": "7-day-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kswo/web/weather/radar/7-day-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent6.worldnow.com/kswo/image1.jpg"
+	},
+	{
+		"title": "First Alert SatRad",
+		"id": "first-alert-satrad",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kswo/web/weather/radar/first-alert-satrad",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent6.worldnow.com/kswo/Radar_large.jpg"
+	},
+	{
+		"title": "Temperatures",
+		"id": "temperatures",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kswo/web/weather/radar/temperatures",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent6.worldnow.com/kswo/image5.jpg"
+	},
+	{
+		"title": "Regional Temps",
+		"id": "regional-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kswo/web/weather/radar/regional-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent6.worldnow.com/kswo/image3.jpg"
+	},
+	{
+		"title": "Regional SatRad",
+		"id": "regional-satrad",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kswo/web/weather/radar/regional-satrad",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent6.worldnow.com/kswo/image4.jpg"
+	},
+	{
+		"title": "24 Hour Rainfall",
+		"id": "24-hour-rainfall",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kswo/web/weather/radar/24-hour-rainfall",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent6.worldnow.com/kswo/image9.jpg"
+	}
+]
