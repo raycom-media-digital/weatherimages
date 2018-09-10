@@ -20,76 +20,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wmctv/Current_Mid_South_Temps.jpg"
-	},
-	{
-		"title": "Regional Temps",
-		"id": "regional-temps",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wmc/web/weather/radar/regional-temps",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "http://webpubcontent.raycommedia.com/wmctv/Regional_Temperatures.jpg"
-	},
-	{
-		"title": "Regional Satellite",
-		"id": "regional-satellite",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wmc/web/weather/radar/regional-satellite",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "http://webpubcontent.raycommedia.com/wmctv/Regional_Satellite_Radar.jpg"
-	},
-	{
-		"title": "Regional Futurecast",
-		"id": "regional-futurecast",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wmc/web/weather/radar/regional-futurecast",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "http://webpubcontent.raycommedia.com/wmctv/Regional_Futurecast.jpg"
+		"image": "//webpubcontent.raycommedia.com/wmctv/Current_Mid_South_Temps.jpg"
 	},
 	{
 		"title": "7-Day Forecast",
@@ -112,18 +43,18 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wmctv/7_Day_Still_large.jpg"
+		"image": "//webpubcontent.raycommedia.com/wmctv/7_Day_Still_large.jpg"
 	},
 	{
-		"title": "Doppler 5 Radar",
-		"id": "doppler-5-radar",
+		"title": "Regional Futurecast",
+		"id": "regional-futurecast",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wmc/web/weather/radar/doppler-5-radar",
+			"target": "wmc/web/weather/radar/regional-futurecast",
 			"sizes": [
 				[
 					728,
@@ -135,6 +66,6 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wmctv/frame1.jpg"
+		"image": "//webpubcontent.raycommedia.com/wmctv/Regional_Futurecast.jpg"
 	}
 ]
