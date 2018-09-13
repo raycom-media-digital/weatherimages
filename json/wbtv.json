@@ -184,29 +184,6 @@
 		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/Southeast.jpg"
 	},
 	{
-		"title": "United States",
-		"id": "united-states",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wbtv/web/weather/radar/united-states",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/Conus.jpg"
-	},
-	{
 		"title": "North Carolina",
 		"id": "north-carolina",
 		"sponsor": null,
@@ -320,74 +297,5 @@
 			]
 		},
 		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/AL-GA.jpg"
-	},
-	{
-		"title": "Regional Temps",
-		"id": "regional-temps",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wbtv/web/weather/radar/regional-temps",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/regionaltempsthumb.jpg"
-	},
-	{
-		"title": "Day Planner",
-		"id": "day-planner",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wbtv/web/weather/radar/day-planner",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/hourbyhourthumb.jpg"
-	},
-	{
-		"title": "Doppler Radar",
-		"id": "doppler-radar",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wbtv/web/weather/radar/doppler-radar",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/doppler_tmb.jpg"
 	}
 ]
