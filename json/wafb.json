@@ -1,71 +1,140 @@
 [
-	{
-		"title": "First Alert Radar",
-		"id": "first-alert-radar",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wafb/web/weather/radar/first-alert-radar",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "http://webpubcontent.raycommedia.com/wafb/Radar_Web.jpg"
-	},
-	{
-		"title": "Current Temps",
-		"id": "current-temps",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wafb/web/weather/radar/current-temps",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "http://webpubcontent.raycommedia.com/wafb/So_LA_Temps_Web.jpg"
-	},
-	{
-		"title": "Advisories",
-		"id": "advisories",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wafb/web/weather/radar/advisories",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "http://webpubcontent.raycommedia.com/wafb/Advisories_Web.jpg"
-	}
+  {
+    "title": "First Alert Radar",
+    "id": "first-alert-radar",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wafb/web/weather/radar/first-alert-radar",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/wafb/Radar_Web.jpg"
+  },
+  {
+    "title": "Current Temps",
+    "id": "current-temps",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wafb/web/weather/radar/current-temps",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/wafb/So_LA_Temps_Web.jpg"
+  },
+  {
+    "title": "Advisories",
+    "id": "advisories",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wafb/web/weather/radar/advisories",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/wafb/Advisories_Web.jpg"
+  },
+  {
+    "title": "River Stages",
+    "id": "river-stages1",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wafb/web/weather/radar/rivers1",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/wafb/Rivers1.jpg"
+  },
+  {
+    "title": "River Stages",
+    "id": "river-stages2",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wafb/web/weather/radar/rivers2",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/wafb/Rivers2.jpg"
+  },
+  {
+    "title": "Boating Forecast",
+    "id": "boating-forecast",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wafb/web/weather/radar/boating-forecast",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/wafb/Boaters.jpg"
+  }
 ]
