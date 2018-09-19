@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent6.worldnow.com/kauz/ADI_Temp.jpg"
+		"image": "http://webpubcontent.raycommedia.com/kauz/ADI_Temp.jpg"
 	},
 	{
 		"title": "7-Day Forecast",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent6.worldnow.com/kauz/WEB_7-Day.jpg"
+		"image": "http://webpubcontent.raycommedia.com/kauz/WEB_7-Day.jpg"
 	},
 	{
 		"title": "First Alert Satellite/Radar",
@@ -66,6 +66,6 @@
 				]
 			]
 		},
-		"image": "http://ftpcontent6.worldnow.com/kauz/DMA_Radar.jpg"
+		"image": "http://webpubcontent.raycommedia.com/kauz/DMA_Radar.jpg"
 	}
 ]
