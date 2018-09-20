@@ -1,0 +1,163 @@
+[
+	{
+		"title": "Muggy Meter",
+		"id": "muggy-meter",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kxxv/web/weather/radar/muggy-meter",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent2.worldnow.com/kxxv/weather/DewPoint.jpg"
+	},
+	{
+		"title": "Severe Outlook",
+		"id": "severe-outlook",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kxxv/web/weather/radar/severe-outlook",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent2.worldnow.com/kxxv/weather/SPCrisk.jpg"
+	},
+	{
+		"title": "Local Temps",
+		"id": "local-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kxxv/web/weather/radar/local-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent2.worldnow.com/kxxv/weather/DMATemps.jpg"
+	},
+	{
+		"title": "Local Winds",
+		"id": "local-winds",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kxxv/web/weather/radar/local-winds",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent2.worldnow.com/kxxv/weather/DMAWinds.jpg"
+	},
+	{
+		"title": "Local Sat/Rad",
+		"id": "local-sat/rad",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kxxv/web/weather/radar/local-sat/rad",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent2.worldnow.com/kxxv/weather/DMASatrad.jpg"
+	},
+	{
+		"title": "Texas Temps",
+		"id": "texas-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kxxv/web/weather/radar/texas-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent2.worldnow.com/kxxv/weather/StateTemps.jpg"
+	},
+	{
+		"title": "Texas Sat/Rad",
+		"id": "texas-sat/rad",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kxxv/web/weather/radar/texas-sat/rad",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://ftpcontent2.worldnow.com/kxxv/weather/TexasSatrad.jpg"
+	}
+]
