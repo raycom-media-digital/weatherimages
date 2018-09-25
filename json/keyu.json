@@ -1,14 +1,14 @@
 [
   {
-    "title": "7-Day Forecast",
-    "id": "7-day-forecast",
+    "title": "Locales",
+    "id": "locales",
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kfda/web/weather/radar/7-day-forecast",
+      "target": "keyu/web/weather/radar/locales",
       "sizes": [
         [
           728,
@@ -20,18 +20,18 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/kfda/7_day.jpg"
+    "image": "http://webpubcontent.raycommedia.com/kfda/KEYU_DMA_Temps_thumb.png"
   },
   {
-    "title": "Area Satellite",
-    "id": "area-satellite",
+    "title": "Nacionales",
+    "id": "nacionales",
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kfda/web/weather/radar/area-satellite",
+      "target": "keyu/web/weather/radar/nacionales",
       "sizes": [
         [
           728,
@@ -43,18 +43,18 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/kfda/DMA_IR_Satellite_thumb.gif"
+    "image": "http://webpubcontent.raycommedia.com/kfda/KEYU_National_temps_thumb.png"
   },
   {
-    "title": "Current Winds",
-    "id": "current-winds",
+    "title": "Vientos",
+    "id": "vientos",
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kfda/web/weather/radar/current-winds",
+      "target": "keyu/web/weather/radar/vientos",
       "sizes": [
         [
           728,
@@ -66,18 +66,18 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/kfda/DMA_Current_Winds_thumb.jpg"
+    "image": "http://webpubcontent.raycommedia.com/kfda/KEYU_Winds_full.png"
   },
   {
-    "title": "Current Temps",
-    "id": "current-temps",
+    "title": "Satélite Regional",
+    "id": "satélite-regional",
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kfda/web/weather/radar/current-temps",
+      "target": "keyu/web/weather/radar/satélite-regional",
       "sizes": [
         [
           728,
@@ -89,18 +89,18 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/kfda/DMA_Temps_thumb.jpg"
+    "image": "http://webpubcontent.raycommedia.com/kfda/KEYU_Satellite_thumb.gif"
   },
   {
-    "title": "Humidity",
-    "id": "humidity",
+    "title": "Punto de Rocío",
+    "id": "punto-de-rocío",
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kfda/web/weather/radar/humidity",
+      "target": "keyu/web/weather/radar/punto-de-rocío",
       "sizes": [
         [
           728,
@@ -112,29 +112,6 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/kfda/DMA_humidity_thumb.jpg"
-  },
-  {
-    "title": "Delays",
-    "id": "delays",
-    "sponsor": null,
-    "sponsorImage": null,
-    "sponsorBodyText": null,
-    "destinationUri": "",
-    "includeAd": true,
-    "ad": {
-      "target": "kfda/web/weather/radar/delays",
-      "sizes": [
-        [
-          728,
-          90
-        ],
-        [
-          320,
-          50
-        ]
-      ]
-    },
-    "image": "http://webpubcontent.raycommedia.com/kfda/airportdelays.png"
+    "image": "http://webpubcontent.raycommedia.com/kfda/KEYU_Dew_thumb.png"
   }
 ]
