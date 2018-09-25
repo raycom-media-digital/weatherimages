@@ -54,7 +54,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "wafb/web/weather/radar/advisories",
+      "target": "wafb/web/weather/radar/10-day",
       "sizes": [
         [
           728,
@@ -66,7 +66,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wafb/Advisories_Web.jpg"
+    "image": "http://webpubcontent.raycommedia.com/wafb/10day.jpeg"
   },
   {
     "title": "River Stages",
