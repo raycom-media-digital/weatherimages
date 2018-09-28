@@ -23,29 +23,6 @@
 		"image": "http://webpubcontent.raycommedia.com/kauz/ADI_Temp.jpg"
 	},
 	{
-		"title": "7-Day Forecast",
-		"id": "7-day-forecast",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "kauz/web/weather/radar/7-day-forecast",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "http://webpubcontent.raycommedia.com/kauz/WEB_7-Day.jpg"
-	},
-	{
 		"title": "First Alert Satellite/Radar",
 		"id": "first-alert-satellite/radar",
 		"sponsor": null,
