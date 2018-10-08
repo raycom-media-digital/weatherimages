@@ -163,7 +163,7 @@
   {
     "title": "JCJC",
     "id": "jcjc",
-    "sponsor": null,
+    "sponsor": "Alfa",
     "sponsorImage": null,
     "sponsorBodyText": null,
     "destinationUri": "https://weather.weatherbug.com/weather-camera/?cam=ELLSV",
@@ -186,7 +186,7 @@
   {
     "title": "Mac Grubbs",
     "id": "mac-grubbs",
-    "sponsor": null,
+    "sponsor": "Alfa",
     "sponsorImage": null,
     "sponsorBodyText": null,
     "destinationUri": "https://weather.weatherbug.com/weather-camera/?cam=CLMBM",
@@ -209,7 +209,7 @@
   {
     "title": "Petro Nissan",
     "id": "petro-nissan",
-    "sponsor": null,
+    "sponsor": "Alfa",
     "sponsorImage": null,
     "sponsorBodyText": null,
     "destinationUri": "https://weather.weatherbug.com/weather-camera/?cam=PTRON",
