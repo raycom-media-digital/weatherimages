@@ -1,0 +1,48 @@
+[
+	{
+		"title": "Current",
+		"id": "current",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kauz/web/weather/radar/current",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kauz/ADI_Temp.jpg"
+	},
+	{
+		"title": "First Alert Satellite/Radar",
+		"id": "first-alert-satellite/radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kauz/web/weather/radar/first-alert-satellite/radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kauz/DMA_Radar.jpg"
+	}
+]

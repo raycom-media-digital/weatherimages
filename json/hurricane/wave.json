@@ -1,0 +1,209 @@
+[
+	{
+		"title": "Radar",
+		"id": "radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wave/web/weather/radar/radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wave/esplive/digdop_capt-320.jpg"
+	},
+	{
+		"title": "Current Temps",
+		"id": "current-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wave/web/weather/radar/current-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wave/esplive/3_City_Currents.jpg"
+	},
+	{
+		"title": "Almanac",
+		"id": "almanac",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wave/web/weather/radar/almanac",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wave/esplive/Almanac-645.jpg"
+	},
+	{
+		"title": "State Temps",
+		"id": "state-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wave/web/weather/radar/state-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wave/esplive/5State_Currents.jpg"
+	},
+	{
+		"title": "Metro Temperatures",
+		"id": "metro-temperatures",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wave/web/weather/radar/metro-temperatures",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wave/esplive/metrotemps.jpg"
+	},
+	{
+		"title": "Weather Garden Conditions",
+		"id": "weather-garden-conditions",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wave/web/weather/radar/weather-garden-conditions",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wave/esplive/wxgarden.jpg"
+	},
+	{
+		"title": "Current River Stages",
+		"id": "current-river-stages",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wave/web/weather/radar/current-river-stages",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wave/esplive/riverstages.jpg"
+	},
+	{
+		"title": "Ohio River Upper Gauge",
+		"id": "ohio-river-upper-gauge",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wave/web/weather/radar/ohio-river-upper-gauge",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wave/esplive/ohioupper.jpg"
+	},
+	{
+		"title": "Ohio River Lower Gauge",
+		"id": "ohio-river-lower-gauge",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wave/web/weather/radar/ohio-river-lower-gauge",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wave/esplive/ohiolower.jpg"
+	}
+]

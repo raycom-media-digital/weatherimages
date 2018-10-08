@@ -1,0 +1,140 @@
+[
+	{
+		"title": "Current Temps",
+		"id": "current-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wlox/web/weather/radar/current-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wlox/weather/DMA_Temps.jpeg"
+	},
+	{
+		"title": "Current Winds",
+		"id": "current-winds",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wlox/web/weather/radar/current-winds",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wlox/weather/DMA_Winds.jpeg"
+	},
+	{
+		"title": "Tides",
+		"id": "tides",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wlox/web/weather/radar/tides",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wlox/weather/TIDES.jpeg"
+	},
+	{
+		"title": "Marine Forecast",
+		"id": "marine-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wlox/web/weather/radar/marine-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wlox/weather/MARINES.jpeg"
+	},
+	{
+		"title": "Satellite/Radar",
+		"id": "satellite/radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wlox/web/weather/radar/satellite/radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wlox/weather/Radar.jpeg"
+	},
+	{
+		"title": "7-Day Forecast",
+		"id": "7-day-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wlox/web/weather/radar/7-day-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wlox/weather/7_Day_Forecast.jpeg"
+	}
+]

@@ -1,0 +1,117 @@
+[
+	{
+		"title": "Doppler Radar",
+		"id": "doppler-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "woio/web/weather/radar/doppler-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/woio/wx/tn_radar.png"
+	},
+	{
+		"title": "7-Day Forecast",
+		"id": "7-day-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "woio/web/weather/radar/7-day-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/woio/wx/_Seven%20Day%20Forecast_full.gif"
+	},
+	{
+		"title": "Daycast",
+		"id": "daycast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "woio/web/weather/radar/daycast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/woio/wx/daypart640.jpg"
+	},
+	{
+		"title": "Regional Temps",
+		"id": "regional-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "woio/web/weather/radar/regional-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/woio/wx/_regionaltemps640.jpg"
+	},
+	{
+		"title": "Almanac",
+		"id": "almanac",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "woio/web/weather/radar/almanac",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/woio/wx/almanac.jpg"
+	}
+]

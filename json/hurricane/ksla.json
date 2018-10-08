@@ -1,0 +1,140 @@
+[
+  {
+    "title": "12-Hour Forecast",
+    "id": "12-hour-forecast",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "ksla/web/weather/radar/12-hour-forecast",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/ksla/weather/Planner.jpg"
+  },
+  {
+    "title": "Futuretrack",
+    "id": "futuretrack",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "ksla/web/weather/radar/futuretrack",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/ksla/weather/FutureTrackweb.gif"
+  },
+  {
+    "title": "Current Temps",
+    "id": "current-temps",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "ksla/web/weather/radar/current-temps",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/ksla/weather/currenttemps.jpg"
+  },
+  {
+    "title": "Current Radar Loop",
+    "id": "current-radar-loop",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "ksla/web/weather/radar/current-radar-loop",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/ksla/weather/currentloop.gif"
+  },
+  {
+    "title": "7-Day Forecast",
+    "id": "7-day-forecast",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "ksla/web/weather/radar/7-day-forecast",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/ksla/weather/7Day.jpg"
+  },
+  {
+    "title": "Winds",
+    "id": "winds",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "ksla/web/weather/radar/winds",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/ksla/weather/wind.jpg"
+  }
+]

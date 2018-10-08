@@ -1,0 +1,140 @@
+[
+	{
+		"title": "First Alert Radar",
+		"id": "first-alert-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wtoc/web/weather/radar/first-alert-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/First%20Alert%20Radar_DMA.jpg"
+	},
+	{
+		"title": "Weather Alerts",
+		"id": "weather-alerts",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wtoc/web/weather/radar/weather-alerts",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/Weather%20Alerts_DMA.jpg"
+	},
+	{
+		"title": "Current Temps",
+		"id": "current-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wtoc/web/weather/radar/current-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/Current%20Temps_DMA.jpg"
+	},
+	{
+		"title": "Feels-Like Temps",
+		"id": "feels-like-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wtoc/web/weather/radar/feels-like-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/Apparent%20Temp_DMA.jpg"
+	},
+	{
+		"title": "Hour-By-Hour",
+		"id": "hour-by-hour",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wtoc/web/weather/radar/hour-by-hour",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/Short%20Term%20Forecast.jpg"
+	},
+	{
+		"title": "7-Day Forecast",
+		"id": "7-day-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wtoc/web/weather/radar/7-day-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/7%20Day%20Forecast_PM.jpg"
+	}
+]

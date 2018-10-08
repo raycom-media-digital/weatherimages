@@ -1,0 +1,232 @@
+[
+  {
+    "title": "Tri-State Radar",
+    "id": "tri-state-radar",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wdam/web/weather/radar/tri-state-radar",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/wdam/weather/ONLINE_PB_RADAR.jpg"
+  },
+  {
+    "title": "Tri-State Temps",
+    "id": "tri-state-temps",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wdam/web/weather/radar/tri-state-temps",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/wdam/weather/08_ONLINE_CURRENT_TEMPS_TRI.jpg"
+  },
+  {
+    "title": "Local Temps",
+    "id": "local-temps",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wdam/web/weather/radar/local-temps",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/wdam/weather/PBTemps.jpg"
+  },
+  {
+    "title": "Daypart",
+    "id": "daypart",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wdam/web/weather/radar/daypart",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/wdam/weather/ONLINE_DAYPART.jpg"
+  },
+  {
+    "title": "7-Day Forecast",
+    "id": "7-day-forecast",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wdam/web/weather/radar/7-day-forecast",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/wdam/weather/ONLINE_7DAY.jpg"
+  },
+  {
+    "title": "Coastal Forecast",
+    "id": "coastal-forecast",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wdam/web/weather/radar/coastal-forecast",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/wdam/weather/AirWindWave.jpg"
+  },
+  {
+    "title": "Forrest General",
+    "id": "forrest-general",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "https://www.weatherbug.com/weather-camera/?cam=HTTSB",
+    "includeAd": true,
+    "ad": {
+      "target": "wdam/web/weather/radar/forrest-general",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "https://arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/UTVYWNCSFBEYXA5LYIPQXF2T6I.jpg"
+  },
+  {
+    "title": "JCJC",
+    "id": "jcjc",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "https://weather.weatherbug.com/weather-camera/?cam=ELLSV",
+    "includeAd": true,
+    "ad": {
+      "target": "wdam/web/weather/radar/jcjc",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "https://arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/LBY43DP5LRA2HNFTWFISOFDQPY.jpg"
+  },
+  {
+    "title": "Mac Grubbs",
+    "id": "mac-grubbs",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "https://weather.weatherbug.com/weather-camera/?cam=CLMBM",
+    "includeAd": true,
+    "ad": {
+      "target": "wdam/web/weather/radar/mac-grubbs",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "https://arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/TE7FBTZY2NEXXABXU5RKSRLRWQ.jpg"
+  },
+  {
+    "title": "Petro Nissan",
+    "id": "petro-nissan",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "https://weather.weatherbug.com/weather-camera/?cam=PTRON",
+    "includeAd": true,
+    "ad": {
+      "target": "wdam/web/weather/radar/petro-nissan",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "https://arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/M2F3EDL4IRGZTGDB6CE7SMDRQY.jpg"
+  }
+]

@@ -1,0 +1,209 @@
+[
+   {
+      "title": "7-Day Forecast",
+      "id": "7-day-forecast",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "khnl/web/weather/radar/7-day-forecast",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://webpubcontent.raycommedia.com/khnl/weather/7dayforecast_full.jpg"
+   },
+   {
+      "title": "Current Radar",
+      "id": "current-radar",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "khnl/web/weather/radar/current-radar",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://webpubcontent.raycommedia.com/khnl/weather/stateradar_web_full.jpg"
+   },
+   {
+      "title": "Interactive Radar",
+      "id": "interactive-radar",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "khnl/web/weather/radar/interactive-radar",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://weather.wdtinc.com/clients/khnlkgmb/staticMaps/621.gif"
+   },
+   {
+      "title": "Surf Report",
+      "id": "surf-report",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "khnl/web/weather/radar/surf-report",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://webpubcontent.raycommedia.com/khnl/weather/surfcastmapwebsite_full.jpg"
+   },
+   {
+      "title": "Oahu Radar",
+      "id": "oahu-radar",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "khnl/web/weather/radar/oahu-radar",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://webpubcontent.raycommedia.com/khnl/weather/oahu_radar_web_full.jpg"
+   },
+   {
+      "title": "Maui County Radar",
+      "id": "maui-county-radar",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "khnl/web/weather/radar/maui-county-radar",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://webpubcontent.raycommedia.com/khnl/weather/maui_radar_web_full.jpg"
+   },
+   {
+      "title": "Hawaii Island Radar",
+      "id": "hawaii-island-radar",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "khnl/web/weather/radar/hawaii-island-radar",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://webpubcontent.raycommedia.com/khnl/weather/big_island_radar_web_full.jpg"
+   },
+   {
+      "title": "Kauai County Radar",
+      "id": "kauai-county-radar",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "khnl/web/weather/radar/kauai-county-radar",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://webpubcontent.raycommedia.com/khnl/weather/kauai_radar_web_full.jpg"
+   },
+   {
+      "title": "Current Temperatures",
+      "id": "current-temperatures",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+         "target": "khnl/web/weather/radar/current-temperatures",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "image": "http://webpubcontent.raycommedia.com/khnl/weather/state_temps_web_full.jpg"
+   }
+]

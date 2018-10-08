@@ -1,0 +1,140 @@
+[
+  {
+    "title": "7-Day Forecast",
+    "id": "7-day-forecast",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kfvs/web/weather/radar/7-day-forecast",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/kfvs12/weather/images/7_Day_Wide.jpg"
+  },
+  {
+    "title": "Interactive Radar",
+    "id": "interactive-radar",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kfvs/web/weather/radar/interactive-radar",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/kfvs12/weather/images/Digital_Doppler.jpg"
+  },
+  {
+    "title": "North Doppler",
+    "id": "north-doppler",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kfvs/web/weather/radar/north-doppler",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/kfvs12/weather/images/Diggital_Doppler_North_Wide.jpg"
+  },
+  {
+    "title": "South Doppler",
+    "id": "south-doppler",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kfvs/web/weather/radar/south-doppler",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/kfvs12/weather/images/Diggital_Doppler_South_Wide.jpg"
+  },
+  {
+    "title": "Current Temps",
+    "id": "current-temps",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kfvs/web/weather/radar/current-temps",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/kfvs12/weather/images/current_temps_wide.jpg"
+  },
+  {
+    "title": "Feels Like",
+    "id": "feels-like",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kfvs/web/weather/radar/feels-like",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/kfvs12/weather/images/Current_Feels_Wide.jpg"
+  }
+]

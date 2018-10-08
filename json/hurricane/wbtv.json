@@ -1,0 +1,301 @@
+[
+	{
+		"title": "7-Day Forecast",
+		"id": "7-day-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbtv/web/weather/radar/7-day-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/7day.jpg"
+	},
+	{
+		"title": "Charlotte Region",
+		"id": "charlotte-region",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbtv/web/weather/radar/charlotte-region",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/doppler_00000.jpg"
+	},
+	{
+		"title": "High Country",
+		"id": "high-country",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbtv/web/weather/radar/high-country",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/RadarMountains.jpg"
+	},
+	{
+		"title": "East of Charlotte",
+		"id": "east-of-charlotte",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbtv/web/weather/radar/east-of-charlotte",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/RadarEast.jpg"
+	},
+	{
+		"title": "South of Charlotte",
+		"id": "south-of-charlotte",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbtv/web/weather/radar/south-of-charlotte",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/RadarSouth.jpg"
+	},
+	{
+		"title": "West of Charlotte",
+		"id": "west-of-charlotte",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbtv/web/weather/radar/west-of-charlotte",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/RadarWest.jpg"
+	},
+	{
+		"title": "Interactive Radar",
+		"id": "interactive-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbtv/web/weather/radar/interactive-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/doppler_tmb.jpg"
+	},
+	{
+		"title": "Southeastern US",
+		"id": "southeastern-us",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbtv/web/weather/radar/southeastern-us",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/Southeast.jpg"
+	},
+	{
+		"title": "North Carolina",
+		"id": "north-carolina",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbtv/web/weather/radar/north-carolina",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/NC.jpg"
+	},
+	{
+		"title": "South Carolina",
+		"id": "south-carolina",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbtv/web/weather/radar/south-carolina",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/SC.jpg"
+	},
+	{
+		"title": "Virginia & W. Va.",
+		"id": "virginia-and-w-va",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbtv/web/weather/radar/virginia-and-w-va",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/VA-WV.jpg"
+	},
+	{
+		"title": "Tennessee",
+		"id": "tennessee",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbtv/web/weather/radar/tennessee",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/TN.jpg"
+	},
+	{
+		"title": "Georgia & Alabama",
+		"id": "georgia-and-alabama",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbtv/web/weather/radar/georgia-and-alabama",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/AL-GA.jpg"
+	}
+]

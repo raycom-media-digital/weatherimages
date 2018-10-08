@@ -1,0 +1,140 @@
+[
+	{
+		"title": "AL Sat/Radar",
+		"id": "al-sat/radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbrc/web/weather/radar/al-sat/radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbrc/weather/graphics/Alabama_SatRad_009.jpg"
+	},
+	{
+		"title": "AL Watch/Warn",
+		"id": "al-watch/warn",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbrc/web/weather/radar/al-watch/warn",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbrc/weather/graphics/WatchesWarnings_640w.JPG"
+	},
+	{
+		"title": "AL Current Temps",
+		"id": "al-current-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbrc/web/weather/radar/al-current-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbrc/weather/graphics/Alabama_Current_Temps_640w.JPG"
+	},
+	{
+		"title": "Natl Sat/Radar",
+		"id": "natl-sat/radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbrc/web/weather/radar/natl-sat/radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbrc/weather/graphics/National_SatRad_009.jpg"
+	},
+	{
+		"title": "Natl Watch/Warn",
+		"id": "natl-watch/warn",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbrc/web/weather/radar/natl-watch/warn",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbrc/weather/graphics/National_WatchesWarnings_640w.JPG"
+	},
+	{
+		"title": "Natl Current Temps",
+		"id": "natl-current-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbrc/web/weather/radar/natl-current-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbrc/weather/graphics/National_Current_Temps_640w.JPG"
+	}
+]

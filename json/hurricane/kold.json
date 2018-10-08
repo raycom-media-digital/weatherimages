@@ -1,0 +1,163 @@
+[
+	{
+		"title": "Seven-Day Forecast",
+		"id": "seven-day-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kold/web/weather/radar/seven-day-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kold/Intellicast/7Day.jpg"
+	},
+	{
+		"title": "Mt. Lemmon Forecast",
+		"id": "mt-lemmon-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kold/web/weather/radar/mt-lemmon-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kold/Intellicast/mtlemmon.jpg"
+	},
+	{
+		"title": "Pollen Levels",
+		"id": "pollen-levels",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kold/web/weather/radar/pollen-levels",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kold/Intellicast/Pollen.jpg"
+	},
+	{
+		"title": "Arizona Temps",
+		"id": "arizona-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kold/web/weather/radar/arizona-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kold/Intellicast/Currents_AZ.jpg"
+	},
+	{
+		"title": "First Alert Doppler",
+		"id": "first-alert-doppler",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kold/web/weather/radar/first-alert-doppler",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kold/Intellicast/Radar_AZ.jpg"
+	},
+	{
+		"title": "Regional Satellite",
+		"id": "regional-satellite",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kold/web/weather/radar/regional-satellite",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kold/Intellicast/Sat_West.jpg"
+	},
+	{
+		"title": "National Satellite",
+		"id": "national-satellite",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kold/web/weather/radar/national-satellite",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kold/Intellicast/Radar_USA.jpg"
+	}
+]

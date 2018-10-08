@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Locales",
+    "id": "locales",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "keyu/web/weather/radar/locales",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/keyu/KEYU_DMA_Temps_thumb.png"
+  },
+  {
+    "title": "Nacionales",
+    "id": "nacionales",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "keyu/web/weather/radar/nacionales",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/keyu/KEYU_National_temps_thumb.png"
+  },
+  {
+    "title": "Vientos",
+    "id": "vientos",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "keyu/web/weather/radar/vientos",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/keyu/KEYU_Winds_full.png"
+  },
+  {
+    "title": "Satélite Regional",
+    "id": "satélite-regional",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "keyu/web/weather/radar/satélite-regional",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/keyu/KEYU_Satellite_thumb.gif"
+  },
+  {
+    "title": "Punto de Rocío",
+    "id": "punto-de-rocío",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "keyu/web/weather/radar/punto-de-rocío",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/keyu/KEYU_Dew_thumb.png"
+  }
+]

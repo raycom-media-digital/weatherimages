@@ -1,0 +1,71 @@
+[
+	{
+		"title": "Mid-South Temps",
+		"id": "mid-south-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wmc/web/weather/radar/mid-south-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "//webpubcontent.raycommedia.com/wmctv/Current_Mid_South_Temps.jpg"
+	},
+	{
+		"title": "7-Day Forecast",
+		"id": "7-day-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wmc/web/weather/radar/7-day-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "//webpubcontent.raycommedia.com/wmctv/7_Day_Still_large.jpg"
+	},
+	{
+		"title": "Regional Futurecast",
+		"id": "regional-futurecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wmc/web/weather/radar/regional-futurecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "//webpubcontent.raycommedia.com/wmctv/Regional_Futurecast.jpg"
+	}
+]

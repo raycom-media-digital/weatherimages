@@ -1,0 +1,140 @@
+[
+  {
+    "title": "7-Day Forecast",
+    "id": "7-day-forecast",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kfda/web/weather/radar/7-day-forecast",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/kfda/7_day.jpg"
+  },
+  {
+    "title": "Area Satellite",
+    "id": "area-satellite",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kfda/web/weather/radar/area-satellite",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/kfda/DMA_IR_Satellite_thumb.gif"
+  },
+  {
+    "title": "Current Winds",
+    "id": "current-winds",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kfda/web/weather/radar/current-winds",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/kfda/DMA_Current_Winds_thumb.jpg"
+  },
+  {
+    "title": "Current Temps",
+    "id": "current-temps",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kfda/web/weather/radar/current-temps",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/kfda/DMA_Temps_thumb.jpg"
+  },
+  {
+    "title": "Humidity",
+    "id": "humidity",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kfda/web/weather/radar/humidity",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/kfda/DMA_humidity_thumb.jpg"
+  },
+  {
+    "title": "Delays",
+    "id": "delays",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kfda/web/weather/radar/delays",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/kfda/airportdelays.png"
+  }
+]

@@ -1,0 +1,140 @@
+[
+	{
+		"title": "7-Day Forecast",
+		"id": "7-day-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kltvsp/web/weather/radar/7-day-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kltv/wxc/7dayforecast.jpg"
+	},
+	{
+		"title": "Radar de Satélite",
+		"id": "radar-de-satélite",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kltvsp/web/weather/radar/radar-de-satélite",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kltv/wxc/Sat_Rad_Big.jpeg"
+	},
+	{
+		"title": "Temp. del ETX",
+		"id": "temp-del-etx",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kltvsp/web/weather/radar/temp-del-etx",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kltv/wxc/ETX_Temps_Big.jpeg"
+	},
+	{
+		"title": "Temp. del Estado",
+		"id": "temp-del-estado",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kltvsp/web/weather/radar/temp-del-estado",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kltv/wxc/Regional_Temps_Big.jpeg"
+	},
+	{
+		"title": "Radar Regional",
+		"id": "radar-regional",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kltvsp/web/weather/radar/radar-regional",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://weatherimagery.raycommedia.com/feeds/raycom/image/us-southcentral_radar_d505x380_still.jpg"
+	},
+	{
+		"title": "Satélite Regional",
+		"id": "satélite-regional",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kltvsp/web/weather/radar/satélite-regional",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://weatherimagery.raycommedia.com/feeds/raycom/image/us-southcentral_infrared_d505x380_still.jpg"
+	}
+]
