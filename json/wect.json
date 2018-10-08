@@ -23,15 +23,15 @@
 		"image": "http://webpubcontent.raycommedia.com/wect/MAXSevenday.jpg"
 	},
 	{
-		"title": "A Look Ahead",
-		"id": "a-look-ahead",
+		"title": "Local Radar",
+		"id": "local-radar",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wect/web/weather/radar/a-look-ahead",
+			"target": "wect/web/weather/radar/local-radar",
 			"sizes": [
 				[
 					728,
@@ -43,18 +43,18 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wect/MAXTomorrow.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wect/web_adiradaranim.gif"
 	},
 	{
-		"title": "Regional SAT/Radar",
-		"id": "regional-sat/radar",
+		"title": "Local Temperatures",
+		"id": "local-temperatures",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wect/web/weather/radar/regional-sat/radar",
+			"target": "wect/web/weather/radar/local-temperatures",
 			"sizes": [
 				[
 					728,
@@ -66,18 +66,18 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wect/MAXSatRad_Caro.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wect/MAXTempsADI.jpg"
 	},
 	{
-		"title": "Temperatures",
-		"id": "temperatures",
+		"title": "Wilmington Almanac",
+		"id": "wilmington-almanac",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wect/web/weather/radar/temperatures",
+			"target": "wect/web/weather/radar/wilmington-almanac",
 			"sizes": [
 				[
 					728,
@@ -89,18 +89,18 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wect/MAXTemperature_ADI.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wect/MAXAlmanac.jpg"
 	},
 	{
-		"title": "Watches / Warnings",
-		"id": "watches-/-warnings",
+		"title": "Carolina Satellite/Radar",
+		"id": "carolina-satellite/radar",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wect/web/weather/radar/watches-/-warnings",
+			"target": "wect/web/weather/radar/carolina-satellite/radar",
 			"sizes": [
 				[
 					728,
@@ -112,18 +112,18 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wect/MAXWarning.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wect/MAXSatRad_Caro.gif"
 	},
 	{
-		"title": "Pollen Forecast",
-		"id": "pollen-forecast",
+		"title": "Area Beach Forecast",
+		"id": "area-beach-forecast",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wect/web/weather/radar/pollen-forecast",
+			"target": "wect/web/weather/radar/area-beach-forecast",
 			"sizes": [
 				[
 					728,
@@ -135,6 +135,75 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wect/MAXWarning.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wect/MAXBeach.jpg"
+	},
+	{
+		"title": "Local Tide Times",
+		"id": "local-tide-times",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wect/web/weather/radar/local-tide-times",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wect/MAXTide.jpg"
+	},
+	{
+		"title": "Offshore Forecast",
+		"id": "offshore-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wect/web/weather/radar/offshore-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wect/MAXMarineandsurf.jpg"
+	},
+	{
+		"title": "Rip Current Risk",
+		"id": "rip-current-risk",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wect/web/weather/radar/rip-current-risk",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wect/MAXRip.jpg"
 	}
 ]

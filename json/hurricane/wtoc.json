@@ -23,15 +23,15 @@
 		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/First%20Alert%20Radar_DMA.jpg"
 	},
 	{
-		"title": "Weather Alerts",
-		"id": "weather-alerts",
+		"title": "Tropical Alerts",
+		"id": "tropical-alerts",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wtoc/web/weather/radar/weather-alerts",
+			"target": "wtoc/web/weather/radar/tropical-alerts",
 			"sizes": [
 				[
 					728,
@@ -43,18 +43,18 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/Weather%20Alerts_DMA.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/Tropical%20Alerts.jpg"
 	},
 	{
-		"title": "Current Temps",
-		"id": "current-temps",
+		"title": "TS Force Wind Probability",
+		"id": "ts-force-wind-probibility",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wtoc/web/weather/radar/current-temps",
+			"target": "wtoc/web/weather/radar/ts-force-wind-probibility",
 			"sizes": [
 				[
 					728,
@@ -66,18 +66,18 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/Current%20Temps_DMA.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/TS%20Wind%20Prob.jpg"
 	},
 	{
-		"title": "Feels-Like Temps",
-		"id": "feels-like-temps",
+		"title": "Significant Wave Height",
+		"id": "significant-wave-height",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wtoc/web/weather/radar/feels-like-temps",
+			"target": "wtoc/web/weather/radar/significant-wave-height",
 			"sizes": [
 				[
 					728,
@@ -89,18 +89,18 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/Apparent%20Temp_DMA.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/Sig%20Wave%20Height.jpg"
 	},
 	{
-		"title": "Hour-By-Hour",
-		"id": "hour-by-hour",
+		"title": "Rain Next 24 Hours",
+		"id": "rain-next-24-hours",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wtoc/web/weather/radar/hour-by-hour",
+			"target": "wtoc/web/weather/radar/rain-next-24-hours",
 			"sizes": [
 				[
 					728,
@@ -112,18 +112,18 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/Short%20Term%20Forecast.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/24-Hour%20Rainfall.jpg"
 	},
 	{
-		"title": "7-Day Forecast",
-		"id": "7-day-forecast",
+		"title": "Max Wind Gusts",
+		"id": "max-wind-gusts",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wtoc/web/weather/radar/7-day-forecast",
+			"target": "wtoc/web/weather/radar/max-wind-gusts",
 			"sizes": [
 				[
 					728,
@@ -135,6 +135,6 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/7%20Day%20Forecast_PM.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/MAX%20Wind%20Gusts.jpg"
 	}
 ]
