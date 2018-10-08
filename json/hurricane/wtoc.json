@@ -1,14 +1,14 @@
 [
 	{
-		"title": "First Alert Radar",
-		"id": "first-alert-radar",
+		"title": "Tropical Tracker",
+		"id": "tropical-tracker",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wtoc/web/weather/radar/first-alert-radar",
+			"target": "wtoc/web/weather/radar/tropical-tracker",
 			"sizes": [
 				[
 					728,
@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/First%20Alert%20Radar_DMA.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/Tropical%20Tracker_Globe.jpg"
 	},
 	{
 		"title": "Tropical Alerts",
