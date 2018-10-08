@@ -69,15 +69,15 @@
     "image": "//webpubcontent.raycommedia.com/waff/weather/HD_AL_TEMPS.jpg"
   },
   {
-    "title": "7 Day Forecast",
-    "id": "7-day-forecast",
+    "title": "10 Day Forecast",
+    "id": "10-day-forecast",
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "waff/web/weather/radar/7-day-forecast",
+      "target": "waff/web/weather/radar/10-day-forecast",
       "sizes": [
         [
           728,
