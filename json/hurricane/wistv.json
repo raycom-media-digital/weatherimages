@@ -1,14 +1,14 @@
 [
 	{
-		"title": "7 Day Forecast",
-		"id": "7-day-forecast",
+		"title": "First Alert Tropical Track",
+		"id": "first-alert-tropical-track",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wistv/web/weather/radar/7-day-forecast",
+			"target": "wistv/web/weather/radar/first-alert-tropical-track",
 			"sizes": [
 				[
 					728,
@@ -20,18 +20,18 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wistv/weather/7Day_Forecast.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wistv/weather/tropicaltrack.jpg"
 	},
 	{
-		"title": "Regional Temps",
-		"id": "regional-temps",
+		"title": "First Alert Spaghetti Model",
+		"id": "first-alert-spaghetti-model",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wistv/web/weather/radar/regional-temps",
+			"target": "wistv/web/weather/radar/first-alert-spaghetti-model",
 			"sizes": [
 				[
 					728,
@@ -43,75 +43,6 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wistv/weather/Regional_Temps.jpg"
-	},
-	{
-		"title": "State Temps",
-		"id": "state-temps",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wistv/web/weather/radar/state-temps",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "https://webpubcontent.raycommedia.com/wistv/weather/State_Temps.jpg"
-	},
-	{
-		"title": "Local Radar",
-		"id": "local-radar",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wistv/web/weather/radar/local-radar",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "https://webpubcontent.raycommedia.com/wistv/weather/Local_Radar_640.jpg"
-	},
-	{
-		"title": "State Radar",
-		"id": "state-radar",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wistv/web/weather/radar/state-radar",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "https://webpubcontent.raycommedia.com/wistv/weather/State_Radar_640.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wistv/weather/spaghettimodels.jpg"
 	}
 ]
