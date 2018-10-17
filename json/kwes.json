@@ -1,0 +1,163 @@
+[
+	{
+		"title": "Online Radar",
+		"id": "online-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kwes/web/weather/radar/online-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://weather.wdtinc.com/clients/kwes2/staticMaps/613.gif"
+	},
+	{
+		"title": "Current Conditions",
+		"id": "current-conditions",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kwes/web/weather/radar/current-conditions",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kwes/weather/Area%20Observations.png"
+	},
+	{
+		"title": "9-Day Forecast",
+		"id": "9-day-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kwes/web/weather/radar/9-day-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kwes/weather/9dayPM.png"
+	},
+	{
+		"title": "Today",
+		"id": "today",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kwes/web/weather/radar/today",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kwes/weather/Today's%20Highs.png"
+	},
+	{
+		"title": "Tonight",
+		"id": "tonight",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kwes/web/weather/radar/tonight",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kwes/weather/Tonight's%20Lows.png"
+	},
+	{
+		"title": "Tomorrow",
+		"id": "tomorrow",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kwes/web/weather/radar/tomorrow",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kwes/weather/Tomorrow's%20Highs.png"
+	},
+	{
+		"title": "Watches/Warnings",
+		"id": "watches/warnings",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kwes/web/weather/radar/watches/warnings",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/kwes/weather/Watches%20&%20Warnings.png"
+	}
+]
