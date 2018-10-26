@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Current Temperature",
+    "id": "current-temperature",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wwbt/web/weather/radar/current-temperature",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/wwsb/Suncoast-Sarasota-Manatee-current-temperature-728.jpg"
+  },
+  {
+    "title": "7-Day Forecast",
+    "id": "7-day-forecast",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wwbt/web/weather/radar/7-day-forecast",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/wwsb/Suncoast-Sarasota-Manatee-WEB-7-DAY-forecast.jpg"
+  },
+  {
+    "title": "Marine Forecast",
+    "id": "marine-forecast",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wwbt/web/weather/radar/marine-forecast",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "http://webpubcontent.raycommedia.com/wwsb/Suncoast-Sarasota-Manatee-Web-Boat-Tide.jpg"
+  }
+]
