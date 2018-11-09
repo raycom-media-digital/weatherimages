@@ -46,15 +46,15 @@
       "image": "http://webpubcontent.raycommedia.com/khnl/weather/stateradar_web_full.jpg"
    },
    {
-      "title": "Interactive Radar",
-      "id": "interactive-radar",
+      "title": "Wind Speed & Direction",
+      "id": "wind-speed",
       "sponsor": null,
       "sponsorImage": null,
       "sponsorBodyText": null,
       "destinationUri": "",
       "includeAd": true,
       "ad": {
-         "target": "khnl/web/weather/radar/interactive-radar",
+         "target": "khnl/web/weather/radar/wind-speed",
          "sizes": [
             [
                728,
@@ -66,7 +66,7 @@
             ]
          ]
       },
-      "image": "http://weather.wdtinc.com/clients/khnlkgmb/staticMaps/621.gif"
+      "image": "http://webpubcontent.raycommedia.com/khnl/weather/state_winds_web_full.jpg"
    },
    {
       "title": "Surf Report",
