@@ -23,6 +23,29 @@
 		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/7day.jpg"
 	},
 	{
+		"title": "Current Temperatures",
+		"id": "current-temperatures",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wbtv/web/weather/radar/current-temperatures",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/currents.jpg"
+	},
+	{
 		"title": "Charlotte Region",
 		"id": "charlotte-region",
 		"sponsor": null,
