@@ -46,52 +46,6 @@
 		"image": "http://webpubcontent.raycommedia.com/wmbf/weather/hd_doppler.JPG"
 	},
 	{
-		"title": "Inland Forecast",
-		"id": "inland-forecast",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wmbf/web/weather/radar/inland-forecast",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "http://webpubcontent.raycommedia.com/wmbf/weather/7DAY_INLAND_FORECAST.JPG"
-	},
-	{
-		"title": "Beach Forecast",
-		"id": "beach-forecast",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wmbf/web/weather/radar/beach-forecast",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "http://webpubcontent.raycommedia.com/wmbf/weather/7DAY_BEACH_FORECAST.JPG"
-	},
-	{
 		"title": "Wind Speeds",
 		"id": "wind-speeds",
 		"sponsor": null,
