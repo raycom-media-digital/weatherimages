@@ -46,15 +46,15 @@
 		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/currents.jpg"
 	},
 	{
-		"title": "Charlotte Region",
-		"id": "charlotte-region",
+		"title": "Charlotte Almanac",
+		"id": "charlotte-almanac",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wbtv/web/weather/radar/charlotte-region",
+			"target": "wbtv/web/weather/almanac",
 			"sizes": [
 				[
 					728,
@@ -66,75 +66,6 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/doppler_00000.jpg"
-	},
-	{
-		"title": "High Country",
-		"id": "high-country",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wbtv/web/weather/radar/high-country",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/RadarMountains.jpg"
-	},
-	{
-		"title": "North Carolina",
-		"id": "north-carolina",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wbtv/web/weather/radar/north-carolina",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/NC.jpg"
-	},
-	{
-		"title": "South Carolina",
-		"id": "south-carolina",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wbtv/web/weather/radar/south-carolina",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/SC.jpg"
+		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/almanac.jpg"
 	}
 ]
