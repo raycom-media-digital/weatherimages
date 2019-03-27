@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wistv/weather/tropicaltrack.jpg"
+		"image": "//webpubcontent.raycommedia.com/wistv/weather/tropicaltrack.jpg"
 	},
 	{
 		"title": "First Alert Spaghetti Model",
@@ -43,6 +43,6 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wistv/weather/spaghettimodels.jpg"
+		"image": "//webpubcontent.raycommedia.com/wistv/weather/spaghettimodels.jpg"
 	}
 ]

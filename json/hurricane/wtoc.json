@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/Tropical%20Tracker_Globe.jpg"
+		"image": "//webpubcontent.raycommedia.com/wtoc/weather/radar/clx/Tropical%20Tracker_Globe.jpg"
 	},
 	{
 		"title": "Tropical Alerts",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/Tropical%20Alerts.jpg"
+		"image": "//webpubcontent.raycommedia.com/wtoc/weather/radar/clx/Tropical%20Alerts.jpg"
 	},
 	{
 		"title": "TS Force Wind Probability",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/TS%20Wind%20Prob.jpg"
+		"image": "//webpubcontent.raycommedia.com/wtoc/weather/radar/clx/TS%20Wind%20Prob.jpg"
 	},
 	{
 		"title": "Significant Wave Height",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/Sig%20Wave%20Height.jpg"
+		"image": "//webpubcontent.raycommedia.com/wtoc/weather/radar/clx/Sig%20Wave%20Height.jpg"
 	},
 	{
 		"title": "Rain Next 24 Hours",
@@ -112,7 +112,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/24-Hour%20Rainfall.jpg"
+		"image": "//webpubcontent.raycommedia.com/wtoc/weather/radar/clx/24-Hour%20Rainfall.jpg"
 	},
 	{
 		"title": "Max Wind Gusts",
@@ -135,6 +135,6 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wtoc/weather/radar/clx/MAX%20Wind%20Gusts.jpg"
+		"image": "//webpubcontent.raycommedia.com/wtoc/weather/radar/clx/MAX%20Wind%20Gusts.jpg"
 	}
 ]

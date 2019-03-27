@@ -20,7 +20,7 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/wwsb/Suncoast-Sarasota-Manatee-current-temperature-728.jpg"
+    "image": "//webpubcontent.raycommedia.com/wwsb/Suncoast-Sarasota-Manatee-current-temperature-728.jpg"
   },
   {
     "title": "7-Day Forecast",
@@ -43,7 +43,7 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/wwsb/Suncoast-Sarasota-Manatee-WEB-7-DAY-forecast.jpg"
+    "image": "//webpubcontent.raycommedia.com/wwsb/Suncoast-Sarasota-Manatee-WEB-7-DAY-forecast.jpg"
   },
   {
     "title": "Marine Forecast",
@@ -66,6 +66,6 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/wwsb/Suncoast-Sarasota-Manatee-Web-Boat-Tide.jpg"
+    "image": "//webpubcontent.raycommedia.com/wwsb/Suncoast-Sarasota-Manatee-Web-Boat-Tide.jpg"
   }
 ]

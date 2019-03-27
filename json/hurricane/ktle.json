@@ -20,7 +20,7 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kwes/weather/M%C3%A1ximasParaHoy.png"
+    "image": "//webpubcontent.raycommedia.com/kwes/weather/M%C3%A1ximasParaHoy.png"
   },
   {
     "title": "Esta madrugada",
@@ -43,7 +43,7 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kwes/weather/M%C3%ADnimasParaEstaNoche.png"
+    "image": "//webpubcontent.raycommedia.com/kwes/weather/M%C3%ADnimasParaEstaNoche.png"
   },
   {
     "title": "Manana",
@@ -66,7 +66,7 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kwes/weather/M%C3%A1ximasParaMa%C3%B1ana.png"
+    "image": "//webpubcontent.raycommedia.com/kwes/weather/M%C3%A1ximasParaMa%C3%B1ana.png"
   },
   {
     "title": "Observaciones",
@@ -89,7 +89,7 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kwes/weather/ObservacionesDeLaZona.png"
+    "image": "//webpubcontent.raycommedia.com/kwes/weather/ObservacionesDeLaZona.png"
   },
   {
     "title": "Temperaturas",
@@ -112,7 +112,7 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kwes/weather/TemperaturaAlMomento.png"
+    "image": "//webpubcontent.raycommedia.com/kwes/weather/TemperaturaAlMomento.png"
   },
   {
     "title": "Satélite y Radar",
@@ -135,7 +135,7 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kwes/weather/SateliteYRadar.png"
+    "image": "//webpubcontent.raycommedia.com/kwes/weather/SateliteYRadar.png"
   },
   {
     "title": "Alertas Y Avisos",
@@ -158,6 +158,6 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kwes/weather/AlertasAvisos.png"
+    "image": "//webpubcontent.raycommedia.com/kwes/weather/AlertasAvisos.png"
   }
 ]

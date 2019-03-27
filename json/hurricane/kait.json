@@ -20,7 +20,7 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kait/wximages/Temp_DMA_640.jpg"
+    "image": "//webpubcontent.raycommedia.com/kait/wximages/Temp_DMA_640.jpg"
   },
   {
     "title": "National Temps",
@@ -43,7 +43,7 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kait/wximages/Temp_Nat_640.jpg"
+    "image": "//webpubcontent.raycommedia.com/kait/wximages/Temp_Nat_640.jpg"
   },
   {
     "title": "Region 8 SatRad",
@@ -66,7 +66,7 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kait/wximages/SatRad_DMA_640.jpg"
+    "image": "//webpubcontent.raycommedia.com/kait/wximages/SatRad_DMA_640.jpg"
   },
   {
     "title": "National SatRad",
@@ -89,7 +89,7 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kait/wximages/SatRad_Nat_640.jpg"
+    "image": "//webpubcontent.raycommedia.com/kait/wximages/SatRad_Nat_640.jpg"
   },
   {
     "title": "Region 8 Dewpoints",
@@ -112,7 +112,7 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kait/wximages/DewPoint_DMA_640.jpg"
+    "image": "//webpubcontent.raycommedia.com/kait/wximages/DewPoint_DMA_640.jpg"
   },
   {
     "title": "Region 8 Winds",
@@ -135,6 +135,6 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kait/wximages/Winds_DMA_640.jpg"
+    "image": "//webpubcontent.raycommedia.com/kait/wximages/Winds_DMA_640.jpg"
   }
 ]

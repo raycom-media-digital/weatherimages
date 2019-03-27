@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wmbf/weather/7DAY_INLAND_FORECAST.JPG"
+		"image": "//webpubcontent.raycommedia.com/wmbf/weather/7DAY_INLAND_FORECAST.JPG"
 	},
 	{
 		"title": "Beach Forecast",
@@ -43,6 +43,6 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wmbf/weather/7DAY_BEACH_FORECAST.JPG"
+		"image": "//webpubcontent.raycommedia.com/wmbf/weather/7DAY_BEACH_FORECAST.JPG"
 	}
 ]
