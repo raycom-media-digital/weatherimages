@@ -46,29 +46,6 @@
       "image": "https://webpubcontent.raycommedia.com/khnl/weather/stateradar_web_full.jpg"
    },
    {
-      "title": "Interactive Radar",
-      "id": "interactive-radar",
-      "sponsor": null,
-      "sponsorImage": null,
-      "sponsorBodyText": null,
-      "destinationUri": "",
-      "includeAd": true,
-      "ad": {
-         "target": "khnl/web/weather/radar/interactive-radar",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "image": "https://weather.wdtinc.com/clients/khnlkgmb/staticMaps/621.gif"
-   },
-   {
       "title": "Surf Report",
       "id": "surf-report",
       "sponsor": null,
