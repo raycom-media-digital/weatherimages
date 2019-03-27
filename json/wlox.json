@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wlox/weather/DMA_Temps.jpeg"
+		"image": "https://webpubcontent.raycommedia.com/wlox/weather/DMA_Temps.jpeg"
 	},
 	{
 		"title": "Current Winds",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wlox/weather/DMA_Winds.jpeg"
+		"image": "https://webpubcontent.raycommedia.com/wlox/weather/DMA_Winds.jpeg"
 	},
 	{
 		"title": "Tides",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wlox/weather/TIDES.jpeg"
+		"image": "https://webpubcontent.raycommedia.com/wlox/weather/TIDES.jpeg"
 	},
 	{
 		"title": "Marine Forecast",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wlox/weather/MARINES.jpeg"
+		"image": "https://webpubcontent.raycommedia.com/wlox/weather/MARINES.jpeg"
 	},
 	{
 		"title": "Satellite/Radar",
@@ -112,7 +112,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wlox/weather/Radar.jpeg"
+		"image": "https://webpubcontent.raycommedia.com/wlox/weather/Radar.jpeg"
 	},
 	{
 		"title": "7-Day Forecast",
@@ -135,6 +135,6 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wlox/weather/7_Day_Forecast.jpeg"
+		"image": "https://webpubcontent.raycommedia.com/wlox/weather/7_Day_Forecast.jpeg"
 	}
 ]

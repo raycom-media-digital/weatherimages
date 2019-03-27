@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/ktre/WxC/DopplerRadar.jpg"
+		"image": "https://webpubcontent.raycommedia.com/ktre/WxC/DopplerRadar.jpg"
 	},
 	{
 		"title": "Regional Temps",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/ktre/WxC/CurrentTemps.jpeg"
+		"image": "https://webpubcontent.raycommedia.com/ktre/WxC/CurrentTemps.jpeg"
 	},
 	{
 		"title": "Texas Radar",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "http://weatherimagery.raycommedia.com/feeds/raycom/image/us-tx_radar_d505x380_still.jpg"
+		"image": "https://weatherimagery.raycommedia.com/feeds/raycom/image/us-tx_radar_d505x380_still.jpg"
 	},
 	{
 		"title": "Regional Radar",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "http://weatherimagery.raycommedia.com/feeds/raycom/image/us-southcentral_radar_d505x380_still.jpg"
+		"image": "https://weatherimagery.raycommedia.com/feeds/raycom/image/us-southcentral_radar_d505x380_still.jpg"
 	},
 	{
 		"title": "Regional Satellite",
@@ -112,6 +112,6 @@
 				]
 			]
 		},
-		"image": "http://weatherimagery.raycommedia.com/feeds/raycom/image/us-southcentral_infrared_d505x380_still.jpg"
+		"image": "https://weatherimagery.raycommedia.com/feeds/raycom/image/us-southcentral_infrared_d505x380_still.jpg"
 	}
 ]

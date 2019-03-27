@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/7day.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wbtv/weather/7day.jpg"
 	},
 	{
 		"title": "Current Temperatures",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/currents.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wbtv/weather/currents.jpg"
 	},
 	{
 		"title": "Charlotte Almanac",
@@ -66,6 +66,6 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wbtv/weather/almanac.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wbtv/weather/almanac.jpg"
 	}
 ]

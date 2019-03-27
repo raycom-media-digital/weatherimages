@@ -20,7 +20,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wdam/weather/ONLINE_PB_RADAR.jpg"
+    "image": "https://webpubcontent.raycommedia.com/wdam/weather/ONLINE_PB_RADAR.jpg"
   },
   {
     "title": "Tri-State Temps",
@@ -43,7 +43,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wdam/weather/08_ONLINE_CURRENT_TEMPS_TRI.jpg"
+    "image": "https://webpubcontent.raycommedia.com/wdam/weather/08_ONLINE_CURRENT_TEMPS_TRI.jpg"
   },
   {
     "title": "Local Temps",
@@ -66,7 +66,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wdam/weather/PBTemps.jpg"
+    "image": "https://webpubcontent.raycommedia.com/wdam/weather/PBTemps.jpg"
   },
   {
     "title": "Daypart",
@@ -89,7 +89,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wdam/weather/ONLINE_DAYPART.jpg"
+    "image": "https://webpubcontent.raycommedia.com/wdam/weather/ONLINE_DAYPART.jpg"
   },
   {
     "title": "7-Day Forecast",
@@ -112,7 +112,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wdam/weather/ONLINE_7DAY.jpg"
+    "image": "https://webpubcontent.raycommedia.com/wdam/weather/ONLINE_7DAY.jpg"
   },
   {
     "title": "Coastal Forecast",
@@ -135,7 +135,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wdam/weather/AirWindWave.jpg"
+    "image": "https://webpubcontent.raycommedia.com/wdam/weather/AirWindWave.jpg"
   },
   {
     "title": "Forrest General",

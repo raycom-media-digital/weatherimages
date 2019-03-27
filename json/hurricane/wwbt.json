@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wwbt/weather/web_7Day.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wwbt/weather/web_7Day.jpg"
 	},
 	{
 		"title": "Weather Headlines",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wwbt/weather/web_special.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wwbt/weather/web_special.jpg"
 	},
 	{
 		"title": "Daypart Forecast",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wwbt/weather/web_Daypart.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wwbt/weather/web_Daypart.jpg"
 	},
 	{
 		"title": "Local Radar",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wwbt/weather/radfile.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wwbt/weather/radfile.jpg"
 	},
 	{
 		"title": "Current Temps",
@@ -112,7 +112,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wwbt/weather/currenttemps.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wwbt/weather/currenttemps.jpg"
 	},
 	{
 		"title": "Tonight's Forecast",
@@ -135,6 +135,6 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wwbt/weather/tonight.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wwbt/weather/tonight.jpg"
 	}
 ]
