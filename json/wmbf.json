@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wmbf/weather/DMA_Temps.JPG"
+		"image": "https://webpubcontent.raycommedia.com/wmbf/weather/DMA_Temps.JPG"
 	},
 	{
 		"title": "Satellite / Radar",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wmbf/weather/hd_doppler.JPG"
+		"image": "https://webpubcontent.raycommedia.com/wmbf/weather/hd_doppler.JPG"
 	},
 	{
 		"title": "Wind Speeds",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wmbf/weather/wind.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wmbf/weather/wind.jpg"
 	},
 	{
 		"title": "Wave Height",
@@ -89,6 +89,6 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wmbf/weather/waves.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wmbf/weather/waves.jpg"
 	}
 ]

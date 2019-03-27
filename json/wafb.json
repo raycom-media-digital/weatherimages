@@ -20,7 +20,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wafb/Radar_Web.jpg"
+    "image": "https://webpubcontent.raycommedia.com/wafb/Radar_Web.jpg"
   },
   {
     "title": "Current Temps",
@@ -43,7 +43,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wafb/So_LA_Temps_Web.jpg"
+    "image": "https://webpubcontent.raycommedia.com/wafb/So_LA_Temps_Web.jpg"
   },
   {
     "title": "10 Day Forecast",
@@ -66,7 +66,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wafb/10day.jpg"
+    "image": "https://webpubcontent.raycommedia.com/wafb/10day.jpg"
   },
   {
     "title": "River Stages",
@@ -89,7 +89,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wafb/Rivers1.jpg"
+    "image": "https://webpubcontent.raycommedia.com/wafb/Rivers1.jpg"
   },
   {
     "title": "River Stages",
@@ -112,7 +112,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wafb/Rivers2.jpg"
+    "image": "https://webpubcontent.raycommedia.com/wafb/Rivers2.jpg"
   },
   {
     "title": "Boating Forecast",
@@ -135,6 +135,6 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/wafb/Boaters.jpg"
+    "image": "https://webpubcontent.raycommedia.com/wafb/Boaters.jpg"
   }
 ]

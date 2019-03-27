@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://weather.wdtinc.com/clients/kwes2/staticMaps/613.gif"
+		"image": "https://weather.wdtinc.com/clients/kwes2/staticMaps/613.gif"
 	},
 	{
 		"title": "Current Conditions",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/kwes/weather/Area%20Observations.png"
+		"image": "https://webpubcontent.raycommedia.com/kwes/weather/Area%20Observations.png"
 	},
 	{
 		"title": "9-Day Forecast",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/kwes/weather/9dayPM.png"
+		"image": "https://webpubcontent.raycommedia.com/kwes/weather/9dayPM.png"
 	},
 	{
 		"title": "Today",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/kwes/weather/Today's%20Highs.png"
+		"image": "https://webpubcontent.raycommedia.com/kwes/weather/Today's%20Highs.png"
 	},
 	{
 		"title": "Tonight",
@@ -112,7 +112,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/kwes/weather/Tonight's%20Lows.png"
+		"image": "https://webpubcontent.raycommedia.com/kwes/weather/Tonight's%20Lows.png"
 	},
 	{
 		"title": "Tomorrow",
@@ -135,7 +135,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/kwes/weather/Tomorrow's%20Highs.png"
+		"image": "https://webpubcontent.raycommedia.com/kwes/weather/Tomorrow's%20Highs.png"
 	},
 	{
 		"title": "Watches/Warnings",
@@ -158,6 +158,6 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/kwes/weather/Watches%20&%20Warnings.png"
+		"image": "https://webpubcontent.raycommedia.com/kwes/weather/Watches%20&%20Warnings.png"
 	}
 ]

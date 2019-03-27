@@ -20,7 +20,7 @@
             ]
          ]
       },
-      "image": "http://webpubcontent.raycommedia.com/wtol/WeatherDCE/StormTrackDoppler.jpg"
+      "image": "https://webpubcontent.raycommedia.com/wtol/WeatherDCE/StormTrackDoppler.jpg"
    },
    {
       "title": "Plan Ahead",
@@ -43,7 +43,7 @@
             ]
          ]
       },
-      "image": "http://webpubcontent.raycommedia.com/wtol/WeatherDCE/PlanAhead.jpg"
+      "image": "https://webpubcontent.raycommedia.com/wtol/WeatherDCE/PlanAhead.jpg"
    },
    {
       "title": "Daily Almanac",
@@ -66,7 +66,7 @@
             ]
          ]
       },
-      "image": "http://webpubcontent.raycommedia.com/wtol/WeatherDCE/DailyAlmanac.jpg"
+      "image": "https://webpubcontent.raycommedia.com/wtol/WeatherDCE/DailyAlmanac.jpg"
    },
    {
       "title": "Current Temperature",
@@ -89,7 +89,7 @@
             ]
          ]
       },
-      "image": "http://webpubcontent.raycommedia.com/wtol/WeatherDCE/ADICurrentTemperature.jpg"
+      "image": "https://webpubcontent.raycommedia.com/wtol/WeatherDCE/ADICurrentTemperature.jpg"
    },
    {
       "title": "Current Winds",
@@ -112,7 +112,7 @@
             ]
          ]
       },
-      "image": "http://webpubcontent.raycommedia.com/wtol/WeatherDCE/ADICurrentWind.jpg"
+      "image": "https://webpubcontent.raycommedia.com/wtol/WeatherDCE/ADICurrentWind.jpg"
    },
    {
       "title": "Current Visibility",
@@ -135,7 +135,7 @@
             ]
          ]
       },
-      "image": "http://webpubcontent.raycommedia.com/wtol/WeatherDCE/ADIVisibilityCurrents.jpg"
+      "image": "https://webpubcontent.raycommedia.com/wtol/WeatherDCE/ADIVisibilityCurrents.jpg"
    },
    {
       "title": "10-Day Forecast",
@@ -158,7 +158,7 @@
             ]
          ]
       },
-      "image": "http://webpubcontent.raycommedia.com/wtol/WeatherDCE/ExtendedForecast.jpg"
+      "image": "https://webpubcontent.raycommedia.com/wtol/WeatherDCE/ExtendedForecast.jpg"
    },
    {
       "title": "Regional Temperature",
@@ -181,7 +181,7 @@
             ]
          ]
       },
-      "image": "http://webpubcontent.raycommedia.com/wtol/WeatherDCE/TriStateCurrentTemps.jpg"
+      "image": "https://webpubcontent.raycommedia.com/wtol/WeatherDCE/TriStateCurrentTemps.jpg"
    },
    {
       "title": "National Temperature",
@@ -204,6 +204,6 @@
             ]
          ]
       },
-      "image": "http://webpubcontent.raycommedia.com/wtol/WeatherDCE/CurrentNationalTemps.jpg"
+      "image": "https://webpubcontent.raycommedia.com/wtol/WeatherDCE/CurrentNationalTemps.jpg"
    }
 ]

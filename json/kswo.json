@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/kswo/Radar_large.jpg"
+		"image": "https://webpubcontent.raycommedia.com/kswo/Radar_large.jpg"
 	},
 	{
 		"title": "Temperatures",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/kswo/image5.jpg"
+		"image": "https://webpubcontent.raycommedia.com/kswo/image5.jpg"
 	},
 	{
 		"title": "Regional Temps",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/kswo/image3.jpg"
+		"image": "https://webpubcontent.raycommedia.com/kswo/image3.jpg"
 	},
 	{
 		"title": "Regional SatRad",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/kswo/image4.jpg"
+		"image": "https://webpubcontent.raycommedia.com/kswo/image4.jpg"
 	},
 	{
 		"title": "24 Hour Rainfall",
@@ -112,6 +112,6 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/kswo/image9.jpg"
+		"image": "https://webpubcontent.raycommedia.com/kswo/image9.jpg"
 	}
 ]

@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wfie/weather/doppler.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wfie/weather/doppler.jpg"
 	},
 	{
 		"title": "Regional Temps",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wfie/weather/web%20REGIONAL%20TEMPS.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wfie/weather/web%20REGIONAL%20TEMPS.jpg"
 	},
 	{
 		"title": "Regional Satellite",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wfie/weather/REGIONAL%20SATRAD.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wfie/weather/REGIONAL%20SATRAD.jpg"
 	},
 	{
 		"title": "National Satellite",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wfie/weather/NATIONAL%20SATRAD.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wfie/weather/NATIONAL%20SATRAD.jpg"
 	},
 	{
 		"title": "7-Day Forecast",
@@ -112,6 +112,6 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wfie/weather/7DAY_full.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wfie/weather/7DAY_full.jpg"
 	}
 ]

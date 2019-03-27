@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wbrc/weather/graphics/Alabama_SatRad_009.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wbrc/weather/graphics/Alabama_SatRad_009.jpg"
 	},
 	{
 		"title": "AL Watch/Warn",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wbrc/weather/graphics/WatchesWarnings_640w.JPG"
+		"image": "https://webpubcontent.raycommedia.com/wbrc/weather/graphics/WatchesWarnings_640w.JPG"
 	},
 	{
 		"title": "AL Current Temps",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wbrc/weather/graphics/Alabama_Current_Temps_640w.JPG"
+		"image": "https://webpubcontent.raycommedia.com/wbrc/weather/graphics/Alabama_Current_Temps_640w.JPG"
 	},
 	{
 		"title": "Natl Sat/Radar",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wbrc/weather/graphics/National_SatRad_009.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wbrc/weather/graphics/National_SatRad_009.jpg"
 	},
 	{
 		"title": "Natl Watch/Warn",
@@ -112,7 +112,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wbrc/weather/graphics/National_WatchesWarnings_640w.JPG"
+		"image": "https://webpubcontent.raycommedia.com/wbrc/weather/graphics/National_WatchesWarnings_640w.JPG"
 	},
 	{
 		"title": "Natl Current Temps",
@@ -135,6 +135,6 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wbrc/weather/graphics/National_Current_Temps_640w.JPG"
+		"image": "https://webpubcontent.raycommedia.com/wbrc/weather/graphics/National_Current_Temps_640w.JPG"
 	}
 ]

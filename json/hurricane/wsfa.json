@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wsfa/Weather/satrad_national_full.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wsfa/Weather/satrad_national_full.jpg"
 	},
 	{
 		"title": "Regional Radar/Sat",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wsfa/Weather/satrad_3state_thumb.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wsfa/Weather/satrad_3state_thumb.jpg"
 	},
 	{
 		"title": "National Temps",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wsfa/Weather/temps_national_full.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wsfa/Weather/temps_national_full.jpg"
 	},
 	{
 		"title": "Regional Temps",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wsfa/Weather/temps_3state_full.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wsfa/Weather/temps_3state_full.jpg"
 	},
 	{
 		"title": "Winds",
@@ -112,7 +112,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wsfa/Weather/winds_3state_full.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wsfa/Weather/winds_3state_full.jpg"
 	},
 	{
 		"title": "Airport Delays",
@@ -135,6 +135,6 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wsfa/Weather/airports_regional_full.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wsfa/Weather/airports_regional_full.jpg"
 	}
 ]

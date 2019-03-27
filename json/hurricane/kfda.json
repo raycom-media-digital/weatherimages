@@ -20,7 +20,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/kfda/7_day.jpg"
+    "image": "https://webpubcontent.raycommedia.com/kfda/7_day.jpg"
   },
   {
     "title": "Area Satellite",
@@ -43,7 +43,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/kfda/DMA_IR_Satellite_thumb.gif"
+    "image": "https://webpubcontent.raycommedia.com/kfda/DMA_IR_Satellite_thumb.gif"
   },
   {
     "title": "Current Winds",
@@ -66,7 +66,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/kfda/DMA_Current_Winds_thumb.jpg"
+    "image": "https://webpubcontent.raycommedia.com/kfda/DMA_Current_Winds_thumb.jpg"
   },
   {
     "title": "Current Temps",
@@ -89,7 +89,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/kfda/DMA_Temps_thumb.jpg"
+    "image": "https://webpubcontent.raycommedia.com/kfda/DMA_Temps_thumb.jpg"
   },
   {
     "title": "Humidity",
@@ -112,7 +112,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/kfda/DMA_humidity_thumb.jpg"
+    "image": "https://webpubcontent.raycommedia.com/kfda/DMA_humidity_thumb.jpg"
   },
   {
     "title": "Delays",
@@ -135,6 +135,6 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/kfda/airportdelays.png"
+    "image": "https://webpubcontent.raycommedia.com/kfda/airportdelays.png"
   }
 ]

@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wcsc/WEB_LIVERADAR.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wcsc/WEB_LIVERADAR.jpg"
 	},
 	{
 		"title": "State Radar",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wcsc/Regional_Satellite_Radar.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wcsc/Regional_Satellite_Radar.jpg"
 	},
 	{
 		"title": "Tropical Satellite",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wcsc/WEB_Tropical_Floater.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wcsc/WEB_Tropical_Floater.jpg"
 	},
 	{
 		"title": "Current Temps",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wcsc/WEB_ADI_Temps.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wcsc/WEB_ADI_Temps.jpg"
 	},
 	{
 		"title": "Future Tracker",
@@ -112,7 +112,7 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wcsc/WEB_ADI_Future-tracker_Loop.gif"
+		"image": "https://webpubcontent.raycommedia.com/wcsc/WEB_ADI_Future-tracker_Loop.gif"
 	},
 	{
 		"title": "7 Day Forecast",
@@ -135,6 +135,6 @@
 				]
 			]
 		},
-		"image": "http://webpubcontent.raycommedia.com/wcsc/WEB_7DAY.jpg"
+		"image": "https://webpubcontent.raycommedia.com/wcsc/WEB_7DAY.jpg"
 	}
 ]

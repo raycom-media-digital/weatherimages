@@ -20,7 +20,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/ksla/weather/Planner.jpg"
+    "image": "https://webpubcontent.raycommedia.com/ksla/weather/Planner.jpg"
   },
   {
     "title": "Futuretrack",
@@ -43,7 +43,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/ksla/weather/FutureTrackweb.gif"
+    "image": "https://webpubcontent.raycommedia.com/ksla/weather/FutureTrackweb.gif"
   },
   {
     "title": "Current Temps",
@@ -66,7 +66,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/ksla/weather/currenttemps.jpg"
+    "image": "https://webpubcontent.raycommedia.com/ksla/weather/currenttemps.jpg"
   },
   {
     "title": "Current Radar Loop",
@@ -89,7 +89,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/ksla/weather/currentloop.gif"
+    "image": "https://webpubcontent.raycommedia.com/ksla/weather/currentloop.gif"
   },
   {
     "title": "7-Day Forecast",
@@ -112,7 +112,7 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/ksla/weather/7Day.jpg"
+    "image": "https://webpubcontent.raycommedia.com/ksla/weather/7Day.jpg"
   },
   {
     "title": "Winds",
@@ -135,6 +135,6 @@
         ]
       ]
     },
-    "image": "http://webpubcontent.raycommedia.com/ksla/weather/wind.jpg"
+    "image": "https://webpubcontent.raycommedia.com/ksla/weather/wind.jpg"
   }
 ]
