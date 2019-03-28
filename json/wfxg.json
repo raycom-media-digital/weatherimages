@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "https://weatherimagery.raycommedia.com/feeds/raycom/image/wfxg_radar_d505x380_still.jpg?1424060022857"
+		"image": "//weatherimagery.raycommedia.com/feeds/raycom/image/wfxg_radar_d505x380_still.jpg?1424060022857"
 	},
 	{
 		"title": "Satellite",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "https://weatherimagery.raycommedia.com/feeds/raycom/image/us-southeast_infrared_d505x380_still.jpg"
+		"image": "//weatherimagery.raycommedia.com/feeds/raycom/image/us-southeast_infrared_d505x380_still.jpg"
 	},
 	{
 		"title": "State Radar",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "https://weatherimagery.raycommedia.com/feeds/raycom/image/us-ga_radar_d505x380_still.jpg?1424060130850"
+		"image": "//weatherimagery.raycommedia.com/feeds/raycom/image/us-ga_radar_d505x380_still.jpg?1424060130850"
 	},
 	{
 		"title": "Regional Radar",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "https://weatherimagery.raycommedia.com/feeds/raycom/image/us-southeast_radar_d505x380_still.jpg?1424060102488"
+		"image": "//weatherimagery.raycommedia.com/feeds/raycom/image/us-southeast_radar_d505x380_still.jpg?1424060102488"
 	},
 	{
 		"title": "Watches/Warnings",
@@ -112,7 +112,7 @@
 				]
 			]
 		},
-		"image": "https://weatherimagery.raycommedia.com/feeds/raycom/image/us-national_wwa_d505x380_still.jpg?1424060353212"
+		"image": "//weatherimagery.raycommedia.com/feeds/raycom/image/us-national_wwa_d505x380_still.jpg?1424060353212"
 	},
 	{
 		"title": "National Radar",
@@ -135,6 +135,6 @@
 				]
 			]
 		},
-		"image": "https://weatherimagery.raycommedia.com/feeds/raycom/image/us-national_radar_d505x380_still.jpg?1424060269037"
+		"image": "//weatherimagery.raycommedia.com/feeds/raycom/image/us-national_radar_d505x380_still.jpg?1424060269037"
 	}
 ]

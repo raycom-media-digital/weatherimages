@@ -20,7 +20,7 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kplc/weather/Acadia%20Parish%20Radar_640.gif"
+    "image": "//webpubcontent.raycommedia.com/kplc/weather/Acadia%20Parish%20Radar_640.gif"
   },
   {
     "title": "Allen",
@@ -43,6 +43,6 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kplc/weather/Allen%20Parish%20Radar_640.gif"
+    "image": "//webpubcontent.raycommedia.com/kplc/weather/Allen%20Parish%20Radar_640.gif"
   }
 ]

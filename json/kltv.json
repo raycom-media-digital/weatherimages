@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/kltv/wxc/7dayforecast.jpg"
+		"image": "//webpubcontent.raycommedia.com/kltv/wxc/7dayforecast.jpg"
 	},
 	{
 		"title": "Satellite Radar",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/kltv/wxc/Sat_Rad_Big.jpeg"
+		"image": "//webpubcontent.raycommedia.com/kltv/wxc/Sat_Rad_Big.jpeg"
 	},
 	{
 		"title": "East Texas Temps",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/kltv/wxc/ETX_Temps_Big.jpeg"
+		"image": "//webpubcontent.raycommedia.com/kltv/wxc/ETX_Temps_Big.jpeg"
 	},
 	{
 		"title": "State Temps",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/kltv/wxc/Regional_Temps_Big.jpeg"
+		"image": "//webpubcontent.raycommedia.com/kltv/wxc/Regional_Temps_Big.jpeg"
 	},
 	{
 		"title": "Regional Radar",
@@ -112,7 +112,7 @@
 				]
 			]
 		},
-		"image": "https://weatherimagery.raycommedia.com/feeds/raycom/image/us-southcentral_radar_d505x380_still.jpg"
+		"image": "//weatherimagery.raycommedia.com/feeds/raycom/image/us-southcentral_radar_d505x380_still.jpg"
 	},
 	{
 		"title": "Regional Satellite",
@@ -135,6 +135,6 @@
 				]
 			]
 		},
-		"image": "https://weatherimagery.raycommedia.com/feeds/raycom/image/us-southcentral_infrared_d505x380_still.jpg"
+		"image": "//weatherimagery.raycommedia.com/feeds/raycom/image/us-southcentral_infrared_d505x380_still.jpg"
 	}
 ]

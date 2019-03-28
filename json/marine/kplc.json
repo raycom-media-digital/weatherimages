@@ -20,7 +20,7 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kplc/weather/Marine.jpg"
+    "image": "//webpubcontent.raycommedia.com/kplc/weather/Marine.jpg"
   },  
   {
     "title": "Tides Forecast",
@@ -43,7 +43,7 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kplc/weather/Marine_full.JPG"
+    "image": "//webpubcontent.raycommedia.com/kplc/weather/Marine_full.JPG"
   },  
   {
     "title": "River Stages",
@@ -66,6 +66,6 @@
         ]
       ]
     },
-    "image": "https://webpubcontent.raycommedia.com/kplc/weather/River_Stages.JPG"
+    "image": "//webpubcontent.raycommedia.com/kplc/weather/River_Stages.JPG"
   }
 ]

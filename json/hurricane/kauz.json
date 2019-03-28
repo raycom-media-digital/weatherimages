@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/kauz/ADI_Temp.jpg"
+		"image": "//webpubcontent.raycommedia.com/kauz/ADI_Temp.jpg"
 	},
 	{
 		"title": "First Alert Satellite/Radar",
@@ -43,6 +43,6 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/kauz/DMA_Radar.jpg"
+		"image": "//webpubcontent.raycommedia.com/kauz/DMA_Radar.jpg"
 	}
 ]

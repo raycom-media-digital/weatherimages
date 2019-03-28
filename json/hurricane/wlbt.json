@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wlbt/SatRad_Temps.jpg"
+		"image": "//webpubcontent.raycommedia.com/wlbt/SatRad_Temps.jpg"
 	},
 	{
 		"title": "12-Hour Forecast",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wlbt/12_Hour_Forecast.jpg"
+		"image": "//webpubcontent.raycommedia.com/wlbt/12_Hour_Forecast.jpg"
 	},
 	{
 		"title": "7-Day Forecast",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wlbt/7_Day_Forecast.jpg"
+		"image": "//webpubcontent.raycommedia.com/wlbt/7_Day_Forecast.jpg"
 	},
 	{
 		"title": "Current Radar",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wlbt/radar.jpg"
+		"image": "//webpubcontent.raycommedia.com/wlbt/radar.jpg"
 	},
 	{
 		"title": "Weather Alerts",
@@ -112,7 +112,7 @@
 				]
 			]
 		},
-		"image": "https://weatherimagery.raycommedia.com/feeds/raycom/image/us-national_wwa_d505x380_still.jpg"
+		"image": "//weatherimagery.raycommedia.com/feeds/raycom/image/us-national_wwa_d505x380_still.jpg"
 	},
 	{
 		"title": "App Download",
@@ -135,6 +135,6 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wlbt/weather_web.jpg"
+		"image": "//webpubcontent.raycommedia.com/wlbt/weather_web.jpg"
 	}
 ]

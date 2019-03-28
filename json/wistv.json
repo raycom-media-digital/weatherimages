@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wistv/weather/10Day_Forecast.jpg"
+		"image": "//webpubcontent.raycommedia.com/wistv/weather/10Day_Forecast.jpg"
 	},
 	{
 		"title": "Regional Temps",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wistv/weather/Regional_Temps.jpg"
+		"image": "//webpubcontent.raycommedia.com/wistv/weather/Regional_Temps.jpg"
 	},
 	{
 		"title": "State Temps",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wistv/weather/State_Temps.jpg"
+		"image": "//webpubcontent.raycommedia.com/wistv/weather/State_Temps.jpg"
 	},
 	{
 		"title": "Local Radar",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wistv/weather/Local_Radar_640.jpg"
+		"image": "//webpubcontent.raycommedia.com/wistv/weather/Local_Radar_640.jpg"
 	},
 	{
 		"title": "State Radar",
@@ -112,6 +112,6 @@
 				]
 			]
 		},
-		"image": "https://webpubcontent.raycommedia.com/wistv/weather/State_Radar_640.jpg"
+		"image": "//webpubcontent.raycommedia.com/wistv/weather/State_Radar_640.jpg"
 	}
 ]
