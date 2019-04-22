@@ -1,0 +1,278 @@
+[
+	{
+		"title": "Local Radar",
+		"id": "local-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "keyc/web/weather/radar/local-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/LR_Local_Radar_640.gif"
+	},
+	{
+		"title": "Regional Sat/Rad",
+		"id": "regional-sat/rad",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "keyc/web/weather/radar/regional-sat/rad",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/regional_satrad_640.gif"
+	},
+	{
+		"title": "Extended Forecast",
+		"id": "extended-forecast",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "keyc/web/weather/radar/extended-forecast",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/extended.jpg"
+	},
+	{
+		"title": "Weather Advisories",
+		"id": "weather-advisories",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "keyc/web/weather/radar/weather-advisories",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/local_wx_advisories.jpg"
+	},
+	{
+		"title": "Weather Highlight",
+		"id": "weather-highlight",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "keyc/web/weather/radar/weather-highlight",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/WebSpecial.jpg"
+	},
+	{
+		"title": "Temperatures",
+		"id": "temperatures",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "keyc/web/weather/radar/temperatures",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/local_temps.jpg"
+	},
+	{
+		"title": "Local High Temps",
+		"id": "local-high-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "keyc/web/weather/radar/local-high-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/local_highs.jpg"
+	},
+	{
+		"title": "Local Low Temps",
+		"id": "local-low-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "keyc/web/weather/radar/local-low-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/local_lows.jpg"
+	},
+	{
+		"title": "Local Wind Speed",
+		"id": "local-wind-speed",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "keyc/web/weather/radar/local-wind-speed",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/local_winds.jpg"
+	},
+	{
+		"title": "Local Visibility",
+		"id": "local-visibility",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "keyc/web/weather/radar/local-visibility",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/local_visibility.jpg"
+	},
+	{
+		"title": "Local Feels Like Temperature",
+		"id": "local-feels-like-temperature",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "keyc/web/weather/radar/local-feels-like-temperature",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/feelslike.jpg"
+	},
+	{
+		"title": "Local Dewpoints",
+		"id": "local-dewpoints",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "keyc/web/weather/radar/local-dewpoints",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/local_dewpoints.jpg"
+	}
+]
