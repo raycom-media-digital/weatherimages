@@ -1,0 +1,508 @@
+[
+	{
+		"title": "Local Temperatures",
+		"id": "local-temperatures",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/local-temperatures",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/tempslocal.jpg"
+	},
+	{
+		"title": "State Temps",
+		"id": "state-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/state-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/tempsstate.jpg"
+	},
+	{
+		"title": "National Temps",
+		"id": "national-temps",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/national-temps",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/tempsnational.jpg"
+	},
+	{
+		"title": "Feels Like",
+		"id": "feels-like",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/feels-like",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/feelsliketemp.jpg"
+	},
+	{
+		"title": "Winds",
+		"id": "winds",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/winds",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/currentwinds.jpg"
+	},
+	{
+		"title": "Wind Gusts",
+		"id": "wind-gusts",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/wind-gusts",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/currentwindgusts.jpg"
+	},
+	{
+		"title": "Watches/Warnings",
+		"id": "watches/warnings",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/watches/warnings",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/watcheswarnings.jpg"
+	},
+	{
+		"title": "Visibility",
+		"id": "visibility",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/visibility",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/currentvisibility.jpg"
+	},
+	{
+		"title": "Dew Points",
+		"id": "dew-points",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/dew-points",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/dewpoints.jpg"
+	},
+	{
+		"title": "Forecast: 7 Day",
+		"id": "forecast:-7-day",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/forecast:-7-day",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/7day.jpg"
+	},
+	{
+		"title": "Forecast: Hour by Hour Central VA",
+		"id": "forecast:-hour-by-hour-central-va",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/forecast:-hour-by-hour-central-va",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/hourbyhour.jpg"
+	},
+	{
+		"title": "Forecast: Hour by Hour Valley",
+		"id": "forecast:-hour-by-hour-valley",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/forecast:-hour-by-hour-valley",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/hourbyhourvalley.jpg"
+	},
+	{
+		"title": "Highs Today",
+		"id": "highs-today",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/highs-today",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/highstoday.jpg"
+	},
+	{
+		"title": "Lows Tonight",
+		"id": "lows-tonight",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/lows-tonight",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/lowstonight.jpg"
+	},
+	{
+		"title": "Highs Tomorrow",
+		"id": "highs-tomorrow",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/highs-tomorrow",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/highstomorrow.jpg"
+	},
+	{
+		"title": "Local Radar",
+		"id": "local-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/local-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/radarlocal.jpg"
+	},
+	{
+		"title": "State Radar",
+		"id": "state-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/state-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/radarstate.jpg"
+	},
+	{
+		"title": "National Radar",
+		"id": "national-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/national-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/radarnational.jpg"
+	},
+	{
+		"title": "Charlottesville Radar",
+		"id": "charlottesville-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/charlottesville-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/radarcville.jpg"
+	},
+	{
+		"title": "Fluvanna Radar",
+		"id": "fluvanna-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/fluvanna-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/radarfluvanna.jpg"
+	},
+	{
+		"title": "Staunton Radar",
+		"id": "staunton-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/staunton-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/radarstaunton.jpg"
+	},
+	{
+		"title": "Waynesboro Radar",
+		"id": "waynesboro-radar",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "wvir/web/weather/radar/waynesboro-radar",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "https://ftpcontent.worldnow.com/wvir/weather/radarwaynesboro.jpg"
+	}
+]
