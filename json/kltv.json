@@ -90,51 +90,5 @@
 			]
 		},
 		"image": "//webpubcontent.raycommedia.com/kltv/wxc/Regional_Temps_Big.jpeg"
-	},
-	{
-		"title": "Regional Radar",
-		"id": "regional-radar",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "kltv/web/weather/radar/regional-radar",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "//weatherimagery.raycommedia.com/feeds/raycom/image/us-southcentral_radar_d505x380_still.jpg"
-	},
-	{
-		"title": "Regional Satellite",
-		"id": "regional-satellite",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "kltv/web/weather/radar/regional-satellite",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "//weatherimagery.raycommedia.com/feeds/raycom/image/us-southcentral_infrared_d505x380_still.jpg"
 	}
 ]
