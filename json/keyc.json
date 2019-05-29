@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/LR_Local_Radar_640.gif"
+		"image": "https://webpubcontent.raycommedia.com/keyc/Weather_Images/LR_Local_Radar_640.gif"
 	},
 	{
 		"title": "Regional Sat/Rad",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/regional_satrad_640.gif"
+		"image": "https://webpubcontent.raycommedia.com/keyc/Weather_Images/regional_satrad_640.gif"
 	},
 	{
 		"title": "Extended Forecast",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/extended.jpg"
+		"image": "https://webpubcontent.raycommedia.com/keyc/Weather_Images/extended.jpg"
 	},
 	{
 		"title": "Weather Advisories",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/local_wx_advisories.jpg"
+		"image": "https://webpubcontent.raycommedia.com/keyc/Weather_Images/local_wx_advisories.jpg"
 	},
 	{
 		"title": "Weather Highlight",
@@ -112,7 +112,7 @@
 				]
 			]
 		},
-		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/WebSpecial.jpg"
+		"image": "https://webpubcontent.raycommedia.com/keyc/Weather_Images/WebSpecial.jpg"
 	},
 	{
 		"title": "Temperatures",
@@ -135,7 +135,7 @@
 				]
 			]
 		},
-		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/local_temps.jpg"
+		"image": "https://webpubcontent.raycommedia.com/keyc/Weather_Images/local_temps.jpg"
 	},
 	{
 		"title": "Local High Temps",
@@ -158,7 +158,7 @@
 				]
 			]
 		},
-		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/local_highs.jpg"
+		"image": "https://webpubcontent.raycommedia.com/keyc/Weather_Images/local_highs.jpg"
 	},
 	{
 		"title": "Local Low Temps",
@@ -181,7 +181,7 @@
 				]
 			]
 		},
-		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/local_lows.jpg"
+		"image": "https://webpubcontent.raycommedia.com/keyc/Weather_Images/local_lows.jpg"
 	},
 	{
 		"title": "Local Wind Speed",
@@ -204,7 +204,7 @@
 				]
 			]
 		},
-		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/local_winds.jpg"
+		"image": "https://webpubcontent.raycommedia.com/keyc/Weather_Images/local_winds.jpg"
 	},
 	{
 		"title": "Local Visibility",
@@ -227,7 +227,7 @@
 				]
 			]
 		},
-		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/local_visibility.jpg"
+		"image": "https://webpubcontent.raycommedia.com/keyc/Weather_Images/local_visibility.jpg"
 	},
 	{
 		"title": "Local Feels Like Temperature",
@@ -250,7 +250,7 @@
 				]
 			]
 		},
-		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/feelslike.jpg"
+		"image": "https://webpubcontent.raycommedia.com/keyc/Weather_Images/feelslike.jpg"
 	},
 	{
 		"title": "Local Dewpoints",
@@ -273,6 +273,6 @@
 				]
 			]
 		},
-		"image": "https://ftpcontent.worldnow.com/keyc/Weather_Images/local_dewpoints.jpg"
+		"image": "https://webpubcontent.raycommedia.com/keyc/Weather_Images/local_dewpoints.jpg"
 	}
 ]
