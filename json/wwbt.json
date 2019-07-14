@@ -123,7 +123,7 @@
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wwbt/web/weather/radar/tonight's-forecast",
+			"target": "wwbt/web/weather/radar/tonights-forecast",
 			"sizes": [
 				[
 					728,
