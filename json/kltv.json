@@ -90,5 +90,28 @@
 			]
 		},
 		"image": "//webpubcontent.raycommedia.com/kltv/wxc/Regional_Temps_Big.jpeg"
+	},
+	{
+		"title": "Burn Bans",
+		"id": "burn-bans",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "",
+		"includeAd": true,
+		"ad": {
+			"target": "kltv/web/weather/radar/burn-bans",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "//webpubcontent.raycommedia.com/kltv/wxc/latestburnbans.jpeg"
 	}
 ]
