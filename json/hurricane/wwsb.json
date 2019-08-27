@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Storm Plots",
+    "id": "storm-plots",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wwbt/web/weather/radar/storm-plots",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "//webpubcontent.raycommedia.com/wwsb/Tropical_Second.jpg"
+  },
+  {
+    "title": "Position and Forecast Cone",
+    "id": "forecast-cone",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wwbt/web/weather/radar/forecast-cone",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "//webpubcontent.raycommedia.com/wwsb/Tropical_Sixth.png"
+  },
+  {
+    "title": "Latest Satellite Image",
+    "id": "satellite",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wwbt/web/weather/radar/satellite",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "//webpubcontent.raycommedia.com/wwsb/Tropical_Seventh.png"
+  }
+]
