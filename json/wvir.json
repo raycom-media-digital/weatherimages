@@ -207,7 +207,7 @@
 		"image": "//ftpcontent.worldnow.com/wvir/weather/dewpoints.jpg"
 	},
 	{
-		"title": "Local Radar",
+		"title": "Animated Radar: Local",
 		"id": "local-radar",
 		"sponsor": null,
 		"sponsorImage": null,
@@ -230,7 +230,7 @@
 		"image": "//ftpcontent.worldnow.com/wvir/weather/animatedradarlocal.gif"
 	},
 	{
-		"title": "State Radar",
+		"title": "Animated Radar: State",
 		"id": "state-radar",
 		"sponsor": null,
 		"sponsorImage": null,
@@ -253,7 +253,7 @@
 		"image": "//ftpcontent.worldnow.com/wvir/weather/animatedradarstate.gif"
 	},
 	{
-		"title": "National Radar",
+		"title": "Animated Radar: National",
 		"id": "national-radar",
 		"sponsor": null,
 		"sponsorImage": null,
