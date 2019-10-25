@@ -205,28 +205,5 @@
 			]
 		},
 		"image": "//ftpcontent.worldnow.com/wvir/weather/dewpoints.jpg"
-	},
-	{
-		"title": "Animated Radar: Local",
-		"id": "local-radar",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wvir/web/weather/radar/local-radar",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "//ftpcontent.worldnow.com/wvir/weather/animatedradarlocal.gif"
 	}
 ]
