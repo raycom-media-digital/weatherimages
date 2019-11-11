@@ -92,29 +92,6 @@
 		"image": "//webpubcontent.raycommedia.com/wlbt/radar.jpg"
 	},
 	{
-		"title": "Weather Alerts",
-		"id": "weather-alerts",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "",
-		"includeAd": true,
-		"ad": {
-			"target": "wlbt/web/weather/radar/weather-alerts",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "//weatherimagery.raycommedia.com/feeds/raycom/image/us-national_wwa_d505x380_still.jpg"
-	},
-	{
 		"title": "App Download",
 		"id": "app-download",
 		"sponsor": null,
