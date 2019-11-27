@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "//ftpcontent.worldnow.com/wvir/weather/7day.jpg"
+		"image": "//webpubcontent.raycommedia.com/wvir/weather/7day.jpg"
 	},
 	{
 		"title": "Forecast: Hour by Hour Central VA",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "//ftpcontent.worldnow.com/wvir/weather/hourbyhour.jpg"
+		"image": "//webpubcontent.raycommedia.com/wvir/weather/hourbyhour.jpg"
 	},
 	{
 		"title": "Forecast: Hour by Hour Valley",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "//ftpcontent.worldnow.com/wvir/weather/hourbyhourvalley.jpg"
+		"image": "//webpubcontent.raycommedia.com/wvir/weather/hourbyhourvalley.jpg"
 	},
 	{
 		"title": "Highs Today",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "//ftpcontent.worldnow.com/wvir/weather/highstoday.jpg"
+		"image": "//webpubcontent.raycommedia.com/wvir/weather/highstoday.jpg"
 	},
 	{
 		"title": "Lows Tonight",
@@ -112,7 +112,7 @@
 				]
 			]
 		},
-		"image": "//ftpcontent.worldnow.com/wvir/weather/lowstonight.jpg"
+		"image": "//webpubcontent.raycommedia.com/wvir/weather/lowstonight.jpg"
 	},
 	{
 		"title": "Highs Tomorrow",
@@ -135,6 +135,6 @@
 				]
 			]
 		},
-		"image": "//ftpcontent.worldnow.com/wvir/weather/highstomorrow.jpg"
+		"image": "//webpubcontent.raycommedia.com/wvir/weather/highstomorrow.jpg"
 	}
 ]

@@ -20,7 +20,7 @@
 				]
 			]
 		},
-		"image": "//ftpcontent.worldnow.com/wvir/weather/radarlocal.jpg"
+		"image": "//webpubcontent.raycommedia.com/wvir/weather/radarlocal.jpg"
 	},
 	{
 		"title": "State Radar",
@@ -43,7 +43,7 @@
 				]
 			]
 		},
-		"image": "//ftpcontent.worldnow.com/wvir/weather/radarstate.jpg"
+		"image": "//webpubcontent.raycommedia.com/wvir/weather/radarstate.jpg"
 	},
 	{
 		"title": "National Radar",
@@ -66,7 +66,7 @@
 				]
 			]
 		},
-		"image": "//ftpcontent.worldnow.com/wvir/weather/radarnational.jpg"
+		"image": "//webpubcontent.raycommedia.com/wvir/weather/radarnational.jpg"
 	},
 	{
 		"title": "Charlottesville Radar",
@@ -89,7 +89,7 @@
 				]
 			]
 		},
-		"image": "//ftpcontent.worldnow.com/wvir/weather/radarcville.jpg"
+		"image": "//webpubcontent.raycommedia.com/wvir/weather/radarcville.jpg"
 	},
 	{
 		"title": "Fluvanna Radar",
@@ -112,7 +112,7 @@
 				]
 			]
 		},
-		"image": "//ftpcontent.worldnow.com/wvir/weather/radarfluvanna.jpg"
+		"image": "//webpubcontent.raycommedia.com/wvir/weather/radarfluvanna.jpg"
 	},
 	{
 		"title": "Staunton Radar",
@@ -135,7 +135,7 @@
 				]
 			]
 		},
-		"image": "//ftpcontent.worldnow.com/wvir/weather/radarstaunton.jpg"
+		"image": "//webpubcontent.raycommedia.com/wvir/weather/radarstaunton.jpg"
 	},
 	{
 		"title": "Waynesboro Radar",
@@ -158,6 +158,6 @@
 				]
 			]
 		},
-		"image": "//ftpcontent.worldnow.com/wvir/weather/radarwaynesboro.jpg"
+		"image": "//webpubcontent.raycommedia.com/wvir/weather/radarwaynesboro.jpg"
 	}
 ]
