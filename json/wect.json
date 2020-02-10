@@ -184,15 +184,15 @@
 		"image": "//webpubcontent.raycommedia.com/wect/MAXMarineandsurf.jpg"
 	},
 	{
-		"title": "Rip Current Risk",
-		"id": "rip-current-risk",
+		"title": "Allergy Forecast",
+		"id": "allergy-forecast",
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "",
 		"includeAd": true,
 		"ad": {
-			"target": "wect/web/weather/radar/rip-current-risk",
+			"target": "wect/web/weather/radar/allergy-forecast",
 			"sizes": [
 				[
 					728,
@@ -204,6 +204,6 @@
 				]
 			]
 		},
-		"image": "//webpubcontent.raycommedia.com/wect/MAXRip.jpg"
+		"image": "//webpubcontent.raycommedia.com/wect/PollenForecast.jpg"
 	}
 ]
