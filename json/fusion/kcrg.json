@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Radar",
+    "id": "radar",
+    "category": "radar",
+    "isFeatured": true,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "/weather/",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/radar",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/Radar.jpg"
+  },
+  {
+    "title": "Temperatures",
+    "id": "temperatures",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/radar/temperatures",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Temperatures.jpg"
+  },
+  {
+    "title": "24 Hour Temperature Change",
+    "id": "24-hour-temperature-change",
+    "category": "radar",
+    "isFeatured": true,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/radar/24-hour-temperature-change",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_24hr_Temperature_Change.jpg"
+  },
+  {
+    "title": "Feels Like",
+    "id": "feels-like",
+    "category": "radar",
+    "isFeatured": true,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/radar/feels-like",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Feels_Like.jpg"
+  },
+  {
+    "title": "Dew Points",
+    "id": "dew-points",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/radar/dew-points",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Dew_Points.jpg"
+  },
+  {
+    "title": "Visibility",
+    "id": "visibility",
+    "category": "radar",
+    "isFeatured": true,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/radar/visibility",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Visibility.jpg"
+  }
+]
