@@ -1,5 +1,157 @@
 [
   {
+    "title": "Wind Chill Alerts",
+    "id": "wind-chill-alerts",
+    "category": "winter",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/winterweather/wind-chill-alerts",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Combo_Wind_Chill_Alerts.jpg"
+  },
+  {
+    "title": "Winter Weather Alerts",
+    "id": "winter-weather-alerts",
+    "category": "winter",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/winterweather/winter-weather-alerts",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Combo_Winter_Wx_Alerts.jpg"
+  },
+  {
+    "title": "Blizzard Alerts",
+    "id": "blizzard-alerts",
+    "category": "winter",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/winterweather/blizzard-alerts",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Combo_Blizzard_Alerts.jpg"
+  },
+  {
+    "title": "Ice Alerts",
+    "id": "ice-alerts",
+    "category": "winter",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/winterweather/ice-alerts",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Combo_Ice_Alerts.jpg"
+  },
+  {
+    "title": "Visibility",
+    "id": "visibility",
+    "category": "winter",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/winterweather/visibility",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Visibility.jpg"
+  },
+  {
+    "title": "Road Conditions - North",
+    "id": "road-conditions-north",
+    "category": "winter",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/winterweather/road-conditions-north",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/Roads_DMA_North.jpg"
+  },
+  {
+    "title": "Road Conditions - Central",
+    "id": "road-conditions-central",
+    "category": "winter",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/winterweather/road-conditions-central",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/Roads_DMA_Central.jpg"
+  },
+  {
+    "title": "Road Conditions - South",
+    "id": "road-conditions-south",
+    "category": "winter",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/winterweather/road-conditions-south",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/Roads_DMA_South.jpg"
+  },
+  {
     "title": "Radar",
     "id": "radar",
     "category": "radar",
@@ -7,10 +159,10 @@
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
-    "destinationUri": "/weather/",
+    "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/radar",
+      "target": "kcrg/web/weather/maproom/radar",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -29,7 +181,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/radar/temperatures",
+      "target": "kcrg/web/weather/maproom/temperatures",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -41,14 +193,14 @@
     "title": "24 Hour Temperature Change",
     "id": "24-hour-temperature-change",
     "category": "radar",
-    "isFeatured": true,
+    "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/radar/24-hour-temperature-change",
+      "target": "kcrg/web/weather/maproom/24-hour-temperature-change",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -60,14 +212,14 @@
     "title": "Feels Like",
     "id": "feels-like",
     "category": "radar",
-    "isFeatured": true,
+    "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/radar/feels-like",
+      "target": "kcrg/web/weather/maproom/feels-like",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -86,7 +238,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/radar/dew-points",
+      "target": "kcrg/web/weather/maproom/dew-points",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -95,8 +247,122 @@
     "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Dew_Points.jpg"
   },
   {
-    "title": "Visibility",
-    "id": "visibility",
+    "title": "Visibilities",
+    "id": "visibilities",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/visibilities",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Visibility.jpg"
+  },
+  {
+    "title": "Winds",
+    "id": "winds",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/winds",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Wind.jpg"
+  },
+  {
+    "title": "Wind Gusts",
+    "id": "wind-gusts",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/wind-gusts",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Wind_Gusts.jpg"
+  },
+  {
+    "title": "Forecast Temperatures",
+    "id": "forecast-temperatures",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/forecast-temperatures",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Forecast.jpg"
+  },
+  {
+    "title": "Highs",
+    "id": "highs",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/highs",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_High_Temperatures_Today.jpg"
+  },
+  {
+    "title": "Lows",
+    "id": "lows",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/lows",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Low_Temperatures_Today.jpg"
+  },
+  {
+    "title": "Satellite and Radar",
+    "id": "satellite-and-radar",
     "category": "radar",
     "isFeatured": true,
     "sponsor": null,
@@ -105,12 +371,240 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/radar/visibility",
+      "target": "kcrg/web/weather/maproom/satellite-and-radar",
       "sizes": [
         [728, 90],
         [320, 50]
       ]
     },
-    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Visibility.jpg"
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Sat_Rad.jpg"
+  },
+  {
+    "title": "Precipitation Today",
+    "id": "precipitation-today",
+    "category": "radar",
+    "isFeatured": true,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/precipitation-today",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Precip_Today.jpg"
+  },
+  {
+    "title": "Precipitation Yesterday",
+    "id": "precipitation-yesterday",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/precipitation-yesterday",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Precip_Yesterday.jpg"
+  },
+  {
+    "title": "Monthly Precipitation",
+    "id": "monthly-precipitation",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/monthly-precipitation",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/Almanac_Monthly_Precip.jpg"
+  },
+  {
+    "title": "Yearly Precipitation",
+    "id": "yearly-precipitation",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/yearly-precipitation",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/Almanac_Yearly_Precip.jpg"
+  },
+  {
+    "title": "Midwest Highs",
+    "id": "midwest-highs",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/midwest-highs",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/Midwest_Highs_Today.jpg"
+  },
+  {
+    "title": "6-10 Day Temperature Outlook",
+    "id": "6-10-day-temperature-outlook",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/6-10-day-temperature-outlook",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/610Temp.jpg"
+  },
+  {
+    "title": "6-10 Day Precipitation Outlook",
+    "id": "6-10-day-precipitation-outlook",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/6-10-day-precipitation-outlook",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/610Precip.jpg"
+  },
+  {
+    "title": "8-14 Day Temperature Outlook",
+    "id": "8-14-day-temperature-outlook",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/8-14-day-temperature-outlook",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/814Temp.jpg"
+  },
+  {
+    "title": "8/14 Day Precipitation Outlook",
+    "id": "8/14-day-precipitation-outlook",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/8/14-day-precipitation-outlook",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/814Precip.jpg"
+  },
+  {
+    "title": "Pollen Report",
+    "id": "pollen-report",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/pollen-report",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/Pollen.jpg"
+  },
+  {
+    "title": "Muggy Meter",
+    "id": "muggy-meter",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/muggy-meter",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/MuggyMeter.jpg"
+  },
+  {
+    "title": "Aches & Pain Index",
+    "id": "aches-and-pain-index",
+    "category": "radar",
+    "isFeatured": false,
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "kcrg/web/weather/maproom/aches-and-pain-index",
+      "sizes": [
+        [728, 90],
+        [320, 50]
+      ]
+    },
+    "image": "//gray.ftp.clickability.com/kcrgwebftp/AchesPains.jpg"
   }
 ]
