@@ -6,7 +6,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -25,7 +26,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -44,7 +46,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -63,7 +66,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -82,7 +86,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -101,7 +106,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -120,7 +126,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -139,7 +146,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -158,7 +166,8 @@
     "isFeatured": true,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -177,7 +186,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -196,7 +206,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -215,7 +226,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -234,7 +246,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -253,7 +266,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -272,7 +286,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -291,7 +306,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -310,7 +326,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -329,7 +346,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -348,7 +366,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -367,7 +386,8 @@
     "isFeatured": true,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -386,7 +406,8 @@
     "isFeatured": true,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -405,7 +426,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -424,7 +446,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -443,7 +466,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -462,7 +486,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -481,7 +506,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -500,7 +526,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -519,7 +546,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -538,7 +566,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -557,7 +586,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -576,7 +606,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
@@ -595,7 +626,8 @@
     "isFeatured": false,
     "sponsor": null,
     "sponsorImage": null,
-    "sponsorBodyText": null,
+    "sponsorDestinationUrl": null,
+    "modalBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
