@@ -1,122 +1,124 @@
-[
-  {
-    "title": "Radar",
-    "id": "radar",
-    "category": "radar",
-    "isFeatured": true,
-    "sponsor": "Sample Sponsor One (URL)",
-    "sponsorImage": null,
-    "sponsorDestinationUrl": null,
-    "modalBodyText": null,
-    "destinationUri": "/weather/",
-    "includeAd": true,
-    "ad": {
-      "target": "/weather/radar",
-      "sizes": [
-        [728, 90],
-        [320, 50]
-      ]
+{
+  "items": [
+    {
+      "title": "Radar",
+      "id": "radar",
+      "category": "radar",
+      "isFeatured": true,
+      "sponsor": "Sample Sponsor One (URL)",
+      "sponsorImage": null,
+      "sponsorDestinationUrl": null,
+      "modalBodyText": null,
+      "destinationUri": "/weather/",
+      "includeAd": true,
+      "ad": {
+        "target": "/weather/radar",
+        "sizes": [
+          [728, 90],
+          [320, 50]
+        ]
+      },
+      "image": "//gray.ftp.clickability.com/kcrgwebftp/Radar.jpg"
     },
-    "image": "//gray.ftp.clickability.com/kcrgwebftp/Radar.jpg"
-  },
-  {
-    "title": "Temperatures",
-    "id": "temperatures",
-    "category": "radar",
-    "isFeatured": false,
-    "sponsor": "Sample Sponsor Two (URL)",
-    "sponsorImage": null,
-    "sponsorDestinationUrl": "https://www.google.com",
-    "modalBodyText": null,
-    "destinationUri": "https://www.gray.tv",
-    "includeAd": true,
-    "ad": {
-      "target": "/weather/radar/temperatures",
-      "sizes": [
-        [728, 90],
-        [320, 50]
-      ]
+    {
+      "title": "Temperatures",
+      "id": "temperatures",
+      "category": "radar",
+      "isFeatured": false,
+      "sponsor": "Sample Sponsor Two (URL)",
+      "sponsorImage": null,
+      "sponsorDestinationUrl": "https://www.google.com",
+      "modalBodyText": null,
+      "destinationUri": "https://www.gray.tv",
+      "includeAd": true,
+      "ad": {
+        "target": "/weather/radar/temperatures",
+        "sizes": [
+          [728, 90],
+          [320, 50]
+        ]
+      },
+      "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Temperatures.jpg"
     },
-    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Temperatures.jpg"
-  },
-  {
-    "title": "24 Hour Temperature Change",
-    "id": "24-hour-temperature-change",
-    "category": "radar",
-    "isFeatured": false,
-    "sponsor": "Sample Sponsor 3 (Img)",
-    "sponsorImage": "//arc-anglerfish-arc2-sandbox-sandbox-gray.s3.amazonaws.com/public/AZ2CZ2PTTVD2PB3OFHILWJHDPQ.png",
-    "sponsorDestinationUrl": "https://www.google.com",
-    "modalBodyText": "<p>This is the first paragraph.</p><p>This is the second paragraph.</p>This is the third paragraph.",
-    "destinationUri": "",
-    "includeAd": true,
-    "ad": {
-      "target": "/weather/radar/24-hour-temperature-change",
-      "sizes": [
-        [728, 90],
-        [320, 50]
-      ]
+    {
+      "title": "24 Hour Temperature Change",
+      "id": "24-hour-temperature-change",
+      "category": "radar",
+      "isFeatured": false,
+      "sponsor": "Sample Sponsor 3 (Img)",
+      "sponsorImage": "//arc-anglerfish-arc2-sandbox-sandbox-gray.s3.amazonaws.com/public/AZ2CZ2PTTVD2PB3OFHILWJHDPQ.png",
+      "sponsorDestinationUrl": "https://www.google.com",
+      "modalBodyText": "<p>This is the first paragraph.</p><p>This is the second paragraph.</p>This is the third paragraph.",
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+        "target": "/weather/radar/24-hour-temperature-change",
+        "sizes": [
+          [728, 90],
+          [320, 50]
+        ]
+      },
+      "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_24hr_Temperature_Change.jpg"
     },
-    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_24hr_Temperature_Change.jpg"
-  },
-  {
-    "title": "Feels Like",
-    "id": "feels-like",
-    "category": "radar",
-    "isFeatured": false,
-    "sponsor": null,
-    "sponsorImage": null,
-    "sponsorDestinationUrl": null,
-    "modalBodyText": null,
-    "destinationUri": "",
-    "includeAd": true,
-    "ad": {
-      "target": "/weather/radar/feels-like",
-      "sizes": [
-        [728, 90],
-        [320, 50]
-      ]
+    {
+      "title": "Feels Like",
+      "id": "feels-like",
+      "category": "radar",
+      "isFeatured": false,
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorDestinationUrl": null,
+      "modalBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+        "target": "/weather/radar/feels-like",
+        "sizes": [
+          [728, 90],
+          [320, 50]
+        ]
+      },
+      "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Feels_Like.jpg"
     },
-    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Feels_Like.jpg"
-  },
-  {
-    "title": "Dew Points",
-    "id": "dew-points",
-    "category": "radar",
-    "isFeatured": false,
-    "sponsor": null,
-    "sponsorImage": null,
-    "sponsorDestinationUrl": null,
-    "modalBodyText": null,
-    "destinationUri": "",
-    "includeAd": true,
-    "ad": {
-      "target": "/weather/radar/dew-points",
-      "sizes": [
-        [728, 90],
-        [320, 50]
-      ]
+    {
+      "title": "Dew Points",
+      "id": "dew-points",
+      "category": "radar",
+      "isFeatured": false,
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorDestinationUrl": null,
+      "modalBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+        "target": "/weather/radar/dew-points",
+        "sizes": [
+          [728, 90],
+          [320, 50]
+        ]
+      },
+      "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Dew_Points.jpg"
     },
-    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Dew_Points.jpg"
-  },
-  {
-    "title": "Visibility",
-    "id": "visibility",
-    "category": "radar",
-    "isFeatured": false,
-    "sponsor": "Ad Disabled",
-    "sponsorImage": null,
-    "sponsorDestinationUrl": null,
-    "modalBodyText": null,
-    "destinationUri": "",
-    "includeAd": false,
-    "ad": {
-      "target": "/weather/radar/visibility",
-      "sizes": [
-        [728, 90],
-        [320, 50]
-      ]
-    },
-    "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Visibility.jpg"
-  }
-]
+    {
+      "title": "Visibility",
+      "id": "visibility",
+      "category": "radar",
+      "isFeatured": false,
+      "sponsor": "Ad Disabled",
+      "sponsorImage": null,
+      "sponsorDestinationUrl": null,
+      "modalBodyText": null,
+      "destinationUri": "",
+      "includeAd": false,
+      "ad": {
+        "target": "/weather/radar/visibility",
+        "sizes": [
+          [728, 90],
+          [320, 50]
+        ]
+      },
+      "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Visibility.jpg"
+    }
+  ]
+}
