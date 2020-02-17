@@ -103,8 +103,8 @@
     {
       "title": "Visibility",
       "id": "visibility",
-      "category": "radar",
-      "isFeatured": false,
+      "category": "winter",
+      "isFeatured": true,
       "sponsor": "Ad Disabled",
       "sponsorImage": null,
       "sponsorDestinationUrl": null,
