@@ -104,12 +104,12 @@
     "id": "visibility",
     "category": "radar",
     "isFeatured": false,
-    "sponsor": null,
+    "sponsor": "Ad Disabled",
     "sponsorImage": null,
     "sponsorDestinationUrl": null,
     "modalBodyText": null,
     "destinationUri": "",
-    "includeAd": true,
+    "includeAd": false,
     "ad": {
       "target": "kcrg/web/weather/radar/visibility",
       "sizes": [
