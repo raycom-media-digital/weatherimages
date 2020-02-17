@@ -11,7 +11,7 @@
     "destinationUri": "/weather/",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/radar",
+      "target": "/weather/radar",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -31,7 +31,7 @@
     "destinationUri": "https://www.gray.tv",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/radar/temperatures",
+      "target": "/weather/radar/temperatures",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -51,7 +51,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/radar/24-hour-temperature-change",
+      "target": "/weather/radar/24-hour-temperature-change",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -71,7 +71,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/radar/feels-like",
+      "target": "/weather/radar/feels-like",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -91,7 +91,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/radar/dew-points",
+      "target": "/weather/radar/dew-points",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -111,7 +111,7 @@
     "destinationUri": "",
     "includeAd": false,
     "ad": {
-      "target": "kcrg/web/weather/radar/visibility",
+      "target": "/weather/radar/visibility",
       "sizes": [
         [728, 90],
         [320, 50]

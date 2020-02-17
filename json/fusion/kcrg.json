@@ -11,7 +11,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/winterweather/wind-chill-alerts",
+      "target": "/weather/winterweather/wind-chill-alerts",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -31,7 +31,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/winterweather/winter-weather-alerts",
+      "target": "/weather/winterweather/winter-weather-alerts",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -51,7 +51,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/winterweather/blizzard-alerts",
+      "target": "/weather/winterweather/blizzard-alerts",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -71,7 +71,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/winterweather/ice-alerts",
+      "target": "/weather/winterweather/ice-alerts",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -91,7 +91,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/winterweather/visibility",
+      "target": "/weather/winterweather/visibility",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -111,7 +111,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/winterweather/road-conditions-north",
+      "target": "/weather/winterweather/road-conditions-north",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -131,7 +131,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/winterweather/road-conditions-central",
+      "target": "/weather/winterweather/road-conditions-central",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -151,7 +151,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/winterweather/road-conditions-south",
+      "target": "/weather/winterweather/road-conditions-south",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -171,7 +171,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/radar",
+      "target": "/weather/maproom/radar",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -191,7 +191,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/temperatures",
+      "target": "/weather/maproom/temperatures",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -211,7 +211,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/24-hour-temperature-change",
+      "target": "/weather/maproom/24-hour-temperature-change",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -231,7 +231,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/feels-like",
+      "target": "/weather/maproom/feels-like",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -251,7 +251,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/dew-points",
+      "target": "/weather/maproom/dew-points",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -271,7 +271,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/visibilities",
+      "target": "/weather/maproom/visibilities",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -291,7 +291,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/winds",
+      "target": "/weather/maproom/winds",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -311,7 +311,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/wind-gusts",
+      "target": "/weather/maproom/wind-gusts",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -331,7 +331,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/forecast-temperatures",
+      "target": "/weather/maproom/forecast-temperatures",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -351,7 +351,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/highs",
+      "target": "/weather/maproom/highs",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -371,7 +371,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/lows",
+      "target": "/weather/maproom/lows",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -391,7 +391,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/satellite-and-radar",
+      "target": "/weather/maproom/satellite-and-radar",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -411,7 +411,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/precipitation-today",
+      "target": "/weather/maproom/precipitation-today",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -431,7 +431,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/precipitation-yesterday",
+      "target": "/weather/maproom/precipitation-yesterday",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -451,7 +451,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/monthly-precipitation",
+      "target": "/weather/maproom/monthly-precipitation",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -471,7 +471,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/yearly-precipitation",
+      "target": "/weather/maproom/yearly-precipitation",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -491,7 +491,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/midwest-highs",
+      "target": "/weather/maproom/midwest-highs",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -511,7 +511,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/6-10-day-temperature-outlook",
+      "target": "/weather/maproom/6-10-day-temperature-outlook",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -531,7 +531,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/6-10-day-precipitation-outlook",
+      "target": "/weather/maproom/6-10-day-precipitation-outlook",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -551,7 +551,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/8-14-day-temperature-outlook",
+      "target": "/weather/maproom/8-14-day-temperature-outlook",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -571,7 +571,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/8/14-day-precipitation-outlook",
+      "target": "/weather/maproom/8/14-day-precipitation-outlook",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -591,7 +591,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/pollen-report",
+      "target": "/weather/maproom/pollen-report",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -611,7 +611,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/muggy-meter",
+      "target": "/weather/maproom/muggy-meter",
       "sizes": [
         [728, 90],
         [320, 50]
@@ -631,7 +631,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "kcrg/web/weather/maproom/aches-and-pain-index",
+      "target": "/weather/maproom/aches-and-pain-index",
       "sizes": [
         [728, 90],
         [320, 50]
