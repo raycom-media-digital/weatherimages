@@ -29,7 +29,7 @@
       "sponsorImage": null,
       "sponsorDestinationUrl": "https://www.google.com",
       "modalBodyText": null,
-      "destinationUri": "https://www.gray.tv",
+      "destinationUri": "https://www.twitter.com",
       "includeAd": true,
       "ad": {
         "target": "/weather/radar/temperatures",
