@@ -119,6 +119,66 @@
         ]
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Visibility.jpg"
+    },
+    {
+      "title": "Feels Like",
+      "id": "feels-like",
+      "category": "radar",
+      "isFeatured": false,
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorDestinationUrl": null,
+      "modalBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+        "target": "/weather/maproom/feels-like",
+        "sizes": [
+          [728, 90],
+          [320, 50]
+        ]
+      },
+      "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Feels_Like.jpg"
+    },
+    {
+      "title": "Dew Points",
+      "id": "dew-points",
+      "category": "radar",
+      "isFeatured": true,
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorDestinationUrl": null,
+      "modalBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+        "target": "/weather/maproom/dew-points",
+        "sizes": [
+          [728, 90],
+          [320, 50]
+        ]
+      },
+      "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Dew_Points.jpg"
+    },
+    {
+      "title": "Visibilities",
+      "id": "visibilities",
+      "category": "radar",
+      "isFeatured": true,
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorDestinationUrl": null,
+      "modalBodyText": null,
+      "destinationUri": "",
+      "includeAd": true,
+      "ad": {
+        "target": "/weather/maproom/visibilities",
+        "sizes": [
+          [728, 90],
+          [320, 50]
+        ]
+      },
+      "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Visibility.jpg"
     }
   ]
 }
