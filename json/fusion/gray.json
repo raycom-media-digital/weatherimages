@@ -25,14 +25,14 @@
       "title": "Temperatures",
       "id": "temperatures",
       "category": "radar",
-      "isFeatured": false,
+      "isFeatured": true,
       "sponsor": "Sample Sponsor Two (URL)",
       "sponsorImage": null,
       "sponsorDestinationUrl": "https://www.google.com",
       "modalBodyText": null,
       "destinationUri": "https://www.twitter.com",
       "includeAd": true,
-      "includeAdFeatured": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/radar/temperatures",
         "sizes": [
@@ -109,14 +109,14 @@
       "title": "Visibility",
       "id": "visibility",
       "category": "winter",
-      "isFeatured": true,
+      "isFeatured": false,
       "sponsor": "Ad Disabled",
       "sponsorImage": null,
       "sponsorDestinationUrl": null,
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
-      "includeAdFeatured": false,
+      "includeAdFeatured": true,
       "ad": {
         "target": "/weather/radar/visibility",
         "sizes": [
