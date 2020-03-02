@@ -11,6 +11,7 @@
       "modalBodyText": null,
       "destinationUri": "/weather/",
       "includeAd": true,
+      "includeAdFeatured": true,
       "ad": {
         "target": "/weather/radar",
         "sizes": [
@@ -31,6 +32,7 @@
       "modalBodyText": null,
       "destinationUri": "https://www.twitter.com",
       "includeAd": true,
+      "includeAdFeatured": true,
       "ad": {
         "target": "/weather/radar/temperatures",
         "sizes": [
@@ -51,6 +53,7 @@
       "modalBodyText": "<p>This is the first paragraph.</p><p>This is the second paragraph.</p>This is the third paragraph.",
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": true,
       "ad": {
         "target": "/weather/radar/24-hour-temperature-change",
         "sizes": [
@@ -71,6 +74,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": true,
       "ad": {
         "target": "/weather/radar/feels-like",
         "sizes": [
@@ -91,6 +95,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": true,
       "ad": {
         "target": "/weather/radar/dew-points",
         "sizes": [
@@ -110,7 +115,8 @@
       "sponsorDestinationUrl": null,
       "modalBodyText": null,
       "destinationUri": "",
-      "includeAd": false,
+      "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/radar/visibility",
         "sizes": [
@@ -131,6 +137,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": true,
       "ad": {
         "target": "/weather/maproom/feels-like",
         "sizes": [
@@ -151,6 +158,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": true,
       "ad": {
         "target": "/weather/maproom/dew-points",
         "sizes": [
@@ -171,6 +179,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": true,
       "ad": {
         "target": "/weather/maproom/visibilities",
         "sizes": [

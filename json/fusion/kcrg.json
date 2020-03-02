@@ -11,6 +11,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/winterweather/wind-chill-alerts",
         "sizes": [
@@ -31,6 +32,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/winterweather/winter-weather-alerts",
         "sizes": [
@@ -51,6 +53,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/winterweather/blizzard-alerts",
         "sizes": [
@@ -71,6 +74,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/winterweather/ice-alerts",
         "sizes": [
@@ -91,6 +95,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/winterweather/visibility",
         "sizes": [
@@ -111,6 +116,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/winterweather/road-conditions-north",
         "sizes": [
@@ -131,6 +137,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/winterweather/road-conditions-central",
         "sizes": [
@@ -151,6 +158,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/winterweather/road-conditions-south",
         "sizes": [
@@ -171,6 +179,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/radar",
         "sizes": [
@@ -191,6 +200,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/temperatures",
         "sizes": [
@@ -211,6 +221,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/24-hour-temperature-change",
         "sizes": [
@@ -231,6 +242,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/feels-like",
         "sizes": [
@@ -251,6 +263,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/dew-points",
         "sizes": [
@@ -271,6 +284,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/visibilities",
         "sizes": [
@@ -291,6 +305,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/winds",
         "sizes": [
@@ -311,6 +326,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/wind-gusts",
         "sizes": [
@@ -331,6 +347,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/forecast-temperatures",
         "sizes": [
@@ -351,6 +368,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/highs",
         "sizes": [
@@ -371,6 +389,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/lows",
         "sizes": [
@@ -391,6 +410,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/satellite-and-radar",
         "sizes": [
@@ -411,6 +431,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/precipitation-today",
         "sizes": [
@@ -431,6 +452,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/precipitation-yesterday",
         "sizes": [
@@ -451,6 +473,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/monthly-precipitation",
         "sizes": [
@@ -471,6 +494,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/yearly-precipitation",
         "sizes": [
@@ -491,6 +515,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/midwest-highs",
         "sizes": [
@@ -511,6 +536,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/6-10-day-temperature-outlook",
         "sizes": [
@@ -531,6 +557,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/6-10-day-precipitation-outlook",
         "sizes": [
@@ -551,6 +578,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/8-14-day-temperature-outlook",
         "sizes": [
@@ -571,6 +599,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/8/14-day-precipitation-outlook",
         "sizes": [
@@ -591,6 +620,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/pollen-report",
         "sizes": [
@@ -611,6 +641,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/muggy-meter",
         "sizes": [
@@ -631,6 +662,7 @@
       "modalBodyText": null,
       "destinationUri": "",
       "includeAd": true,
+      "includeAdFeatured": false,
       "ad": {
         "target": "/weather/maproom/aches-and-pain-index",
         "sizes": [
