@@ -44,7 +44,7 @@
       "title": "24 Hour Temperature Change",
       "id": "24-hour-temperature-change",
       "category": "radar",
-      "isFeatured": false,
+      "isFeatured": true,
       "sponsor": "Sample Sponsor 3 (Img)",
       "sponsorImage": "//arc-anglerfish-arc2-sandbox-sandbox-gray.s3.amazonaws.com/public/AZ2CZ2PTTVD2PB3OFHILWJHDPQ.png",
       "sponsorDestinationUrl": "https://www.google.com",
