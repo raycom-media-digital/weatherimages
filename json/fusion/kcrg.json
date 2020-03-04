@@ -13,11 +13,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/winterweather/wind-chill-alerts",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/winterweather/wind-chill-alerts"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Combo_Wind_Chill_Alerts.jpg"
     },
@@ -34,11 +30,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/winterweather/winter-weather-alerts",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/winterweather/winter-weather-alerts"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Combo_Winter_Wx_Alerts.jpg"
     },
@@ -55,11 +47,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/winterweather/blizzard-alerts",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/winterweather/blizzard-alerts"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Combo_Blizzard_Alerts.jpg"
     },
@@ -76,11 +64,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/winterweather/ice-alerts",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/winterweather/ice-alerts"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Combo_Ice_Alerts.jpg"
     },
@@ -97,11 +81,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/winterweather/visibility",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/winterweather/visibility"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Visibility.jpg"
     },
@@ -118,11 +98,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/winterweather/road-conditions-north",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/winterweather/road-conditions-north"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/Roads_DMA_North.jpg"
     },
@@ -139,11 +115,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/winterweather/road-conditions-central",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/winterweather/road-conditions-central"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/Roads_DMA_Central.jpg"
     },
@@ -160,11 +132,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/winterweather/road-conditions-south",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/winterweather/road-conditions-south"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/Roads_DMA_South.jpg"
     },
@@ -181,11 +149,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/radar",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/radar"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/Radar.jpg"
     },
@@ -202,11 +166,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/temperatures",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/temperatures"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Temperatures.jpg"
     },
@@ -223,11 +183,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/24-hour-temperature-change",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/24-hour-temperature-change"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_24hr_Temperature_Change.jpg"
     },
@@ -244,11 +200,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/feels-like",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/feels-like"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Feels_Like.jpg"
     },
@@ -265,11 +217,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/dew-points",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/dew-points"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Dew_Points.jpg"
     },
@@ -286,11 +234,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/visibilities",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/visibilities"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Visibility.jpg"
     },
@@ -307,11 +251,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/winds",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/winds"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Wind.jpg"
     },
@@ -328,11 +268,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/wind-gusts",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/wind-gusts"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Wind_Gusts.jpg"
     },
@@ -349,11 +285,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/forecast-temperatures",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/forecast-temperatures"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Forecast.jpg"
     },
@@ -370,11 +302,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/highs",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/highs"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_High_Temperatures_Today.jpg"
     },
@@ -391,11 +319,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/lows",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/lows"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Low_Temperatures_Today.jpg"
     },
@@ -412,11 +336,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/satellite-and-radar",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/satellite-and-radar"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Sat_Rad.jpg"
     },
@@ -433,11 +353,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/precipitation-today",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/precipitation-today"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Precip_Today.jpg"
     },
@@ -454,11 +370,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/precipitation-yesterday",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/precipitation-yesterday"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Precip_Yesterday.jpg"
     },
@@ -475,11 +387,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/monthly-precipitation",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/monthly-precipitation"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/Almanac_Monthly_Precip.jpg"
     },
@@ -496,11 +404,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/yearly-precipitation",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/yearly-precipitation"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/Almanac_Yearly_Precip.jpg"
     },
@@ -517,11 +421,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/midwest-highs",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/midwest-highs"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/Midwest_Highs_Today.jpg"
     },
@@ -538,11 +438,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/6-10-day-temperature-outlook",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/6-10-day-temperature-outlook"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/610Temp.jpg"
     },
@@ -559,11 +455,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/6-10-day-precipitation-outlook",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/6-10-day-precipitation-outlook"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/610Precip.jpg"
     },
@@ -580,11 +472,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/8-14-day-temperature-outlook",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/8-14-day-temperature-outlook"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/814Temp.jpg"
     },
@@ -601,11 +489,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/8/14-day-precipitation-outlook",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/8/14-day-precipitation-outlook"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/814Precip.jpg"
     },
@@ -622,11 +506,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/pollen-report",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/pollen-report"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/Pollen.jpg"
     },
@@ -643,11 +523,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/muggy-meter",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/muggy-meter"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/MuggyMeter.jpg"
     },
@@ -664,11 +540,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/maproom/aches-and-pain-index",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/aches-and-pain-index"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/AchesPains.jpg"
     }

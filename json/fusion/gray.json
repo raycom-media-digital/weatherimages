@@ -13,11 +13,7 @@
       "includeAd": true,
       "includeAdFeatured": true,
       "ad": {
-        "target": "/weather/radar",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/radar"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/Radar.jpg"
     },
@@ -34,11 +30,7 @@
       "includeAd": true,
       "includeAdFeatured": false,
       "ad": {
-        "target": "/weather/radar/temperatures",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/radar/temperatures"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Temperatures.jpg"
     },
@@ -55,11 +47,7 @@
       "includeAd": true,
       "includeAdFeatured": true,
       "ad": {
-        "target": "/weather/radar/24-hour-temperature-change",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/radar/24-hour-temperature-change"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_24hr_Temperature_Change.jpg"
     },
@@ -76,11 +64,7 @@
       "includeAd": true,
       "includeAdFeatured": true,
       "ad": {
-        "target": "/weather/radar/feels-like",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/radar/feels-like"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Feels_Like.jpg"
     },
@@ -97,11 +81,7 @@
       "includeAd": true,
       "includeAdFeatured": true,
       "ad": {
-        "target": "/weather/radar/dew-points",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/radar/dew-points"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Dew_Points.jpg"
     },
@@ -118,11 +98,7 @@
       "includeAd": true,
       "includeAdFeatured": true,
       "ad": {
-        "target": "/weather/radar/visibility",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/radar/visibility"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Visibility.jpg"
     },
@@ -139,11 +115,7 @@
       "includeAd": true,
       "includeAdFeatured": true,
       "ad": {
-        "target": "/weather/maproom/feels-like",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/feels-like"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Feels_Like.jpg"
     },
@@ -160,11 +132,7 @@
       "includeAd": true,
       "includeAdFeatured": true,
       "ad": {
-        "target": "/weather/maproom/dew-points",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/dew-points"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Dew_Points.jpg"
     },
@@ -181,11 +149,7 @@
       "includeAd": true,
       "includeAdFeatured": true,
       "ad": {
-        "target": "/weather/maproom/visibilities",
-        "sizes": [
-          [728, 90],
-          [320, 50]
-        ]
+        "target": "/weather/maproom/visibilities"
       },
       "image": "//gray.ftp.clickability.com/kcrgwebftp/DMA_Visibility.jpg"
     }
