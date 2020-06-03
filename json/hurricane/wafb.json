@@ -8,7 +8,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "wafb/web/weather/radar/first-alert-radar",
+      "target": "wafb/web/weather/hurricane/first-alert-radar",
       "sizes": [
         [
           728,
@@ -20,7 +20,7 @@
         ]
       ]
     },
-    "image": "//webpubcontent.raycommedia.com/wafb/Radar_Web.jpg"
+    "image": "//webpubcontent.gray.tv/wafb/Radar_Web.jpg"
   },
   {
     "title": "Current Temps",
@@ -31,7 +31,7 @@
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "wafb/web/weather/radar/current-temps",
+      "target": "wafb/web/weather/hurricane/current-temps",
       "sizes": [
         [
           728,
@@ -43,18 +43,18 @@
         ]
       ]
     },
-    "image": "//webpubcontent.raycommedia.com/wafb/So_LA_Temps_Web.jpg"
+    "image": "//webpubcontent.gray.tv/wafb/So_LA_Temps_Web.jpg"
   },
   {
-    "title": "10 Day Forecast",
-    "id": "10-day-forecast",
+    "title": "Atlatntic Satellite",
+    "id": "atlantic-satellite",
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "wafb/web/weather/radar/10-day",
+      "target": "wafb/web/weather/hurricane/atlantic-satellite",
       "sizes": [
         [
           728,
@@ -66,18 +66,18 @@
         ]
       ]
     },
-    "image": "//webpubcontent.raycommedia.com/wafb/10day.jpg"
+    "image": "//webpubcontent.gray.tv/wafb/Atlantic_IR_Satellite_Loop.gif"
   },
   {
-    "title": "River Stages",
-    "id": "river-stages1",
+    "title": "Gulf Satellite",
+    "id": "gulf-satellite",
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "wafb/web/weather/radar/rivers1",
+      "target": "wafb/web/weather/hurricane/gulf-satellite",
       "sizes": [
         [
           728,
@@ -89,18 +89,18 @@
         ]
       ]
     },
-    "image": "//webpubcontent.raycommedia.com/wafb/Rivers1.jpg"
+    "image": "//webpubcontent.gray.tv/wafb/Gulf_IR_Satellite_Loop.gif"
   },
   {
-    "title": "River Stages",
-    "id": "river-stages2",
+    "title": "Atlantic Sea Surface Temps",
+    "id": "atlantic-temps",
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "wafb/web/weather/radar/rivers2",
+      "target": "wafb/web/weather/hurricane/atlantic-temps",
       "sizes": [
         [
           728,
@@ -112,18 +112,18 @@
         ]
       ]
     },
-    "image": "//webpubcontent.raycommedia.com/wafb/Rivers2.jpg"
+    "image": "//webpubcontent.gray.tv/wafb/Atlantic_SST_Web.png"
   },
   {
-    "title": "Boating Forecast",
-    "id": "boating-forecast",
+    "title": "Gulf Sea Surface Temps",
+    "id": "gulf-temps",
     "sponsor": null,
     "sponsorImage": null,
     "sponsorBodyText": null,
     "destinationUri": "",
     "includeAd": true,
     "ad": {
-      "target": "wafb/web/weather/radar/boating-forecast",
+      "target": "wafb/web/weather/hurricane/gulf-temps",
       "sizes": [
         [
           728,
@@ -135,6 +135,6 @@
         ]
       ]
     },
-    "image": "//webpubcontent.raycommedia.com/wafb/Boaters.jpg"
+    "image": "//webpubcontent.gray.tv/wafb/Gulf_SST_Web.png"
   }
 ]
