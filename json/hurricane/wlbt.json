@@ -120,7 +120,7 @@
 		"sponsor": null,
 		"sponsorImage": null,
 		"sponsorBodyText": null,
-		"destinationUri": "",
+		"destinationUri": "/apps",
 		"includeAd": true,
 		"ad": {
 			"target": "wlbt/web/weather/radar/app-download",
