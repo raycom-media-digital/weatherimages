@@ -136,5 +136,51 @@
       ]
     },
     "image": "//webpubcontent.gray.tv/wafb/Gulf_SST_Web.png"
+  },
+  {
+    "title": "Model Tracks",
+    "id": "model-tracks",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wafb/web/weather/hurricane/model-tracks",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "//webpubcontent.gray.tv/wafb/Spaghetti_Plots.jpg"
+  },
+  {
+    "title": "Tropical Tracker",
+    "id": "tropical-tracker",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wafb/web/weather/hurricane/tropical-tracker",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "//webpubcontent.gray.tv/wafb/Tropical_Tracker.jpg"
   }
 ]
