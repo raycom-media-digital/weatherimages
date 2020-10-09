@@ -182,5 +182,28 @@
       ]
     },
     "image": "//webpubcontent.gray.tv/wafb/Tropical_Tracker.jpg"
+  },
+  {
+    "title": "Tropical Watches & Warnings",
+    "id": "tropical-watch-warning",
+    "sponsor": null,
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "destinationUri": "",
+    "includeAd": true,
+    "ad": {
+      "target": "wafb/web/weather/hurricane/tropical-watch-warning",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "image": "//webpubcontent.gray.tv/wafb/Tropical_Watch_Warning.jpg"
   }
 ]
